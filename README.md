@@ -24,7 +24,8 @@
 
 网上会有一些网站爬出节点，然后会放在他的网站或者TG频道中，需要的自行查找。
 
-#### 3.1.2 白嫖机场
+<details open>
+<summary>3.1.2 白嫖机场</summary>
 
 | 白嫖机场 |                                  流量情况                                  |                                     地址                                    |
 |:--------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
@@ -36,9 +37,12 @@
 
 白嫖机场总结：**免费的东西也是最贵**的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
 
+</details>
+
 ### 3.2 在用机场
 
-#### 3.2.1 中转机场
+<details open>
+<summary>3.2.1 中转机场</summary>
 
 |  中转机场 |                                                                                                                                                                                                                                                                                             价格流量图                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                          评价                                                                                                                                                                                                          |                                                 注册官网（大部分是网页注册的，除了 JAY 云是TG上机器人注册的）                                                 |
 |:---------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -52,8 +56,11 @@
 |   次元云  |                                                                                                                                                                                                  <a href="https://postimg.cc/cg5nkX2S" target="_blank"><img src="https://i.postimg.cc/cg5nkX2S/24-6-26.png" alt="24-6-26"/></a>                                                                                                                                                                                                 |                                                中转机场，被打之前性价比和稳定性十分高，拥有常见热门地区的节点，还有、法国、挪威、马来西亚、印度、越南、土耳其、澳大利亚、泰国、英国等地区节点！但是被打后有些一蹶不振，如果要求不高，也可以看看这家。性价比不是最高的，但是**做活动的时候性价比很高**。比如三周年套餐就是 100+ 元，一年3T流量，没用完的话下年继续重置流量！                                                |                                                       [次元云](https://ciyy.cc/#/register?code=9B4x7pu0)                                                      |
 | tutucloud |                                                                                                                                                                                                    <a href="https://postimg.cc/HJdXrJXf" target="_blank"><img src="https://i.postimg.cc/HJdXrJXf/24-6-26-tutucloud.png" alt="24-6-26-tutucloud"/></a>                                                                                                                                                                                                   |                                                                                                                                                              大部分中转、三个直连节点的**小众精品机场**。提供较全的流媒体解锁，除热门节点外还有印度、澳门等节点。                                                                                                                                                              |                                               [tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)                                              |
 |    COO    |                                                                                                                                                                                                          <a href="https://postimg.cc/bG90g0qy" target="_blank"><img src="https://i.postimg.cc/bG90g0qy/24-6-26-COO.png" alt="24-6-26-COO"/></a>                                                                                                                                                                                                         | 全中转机场、用有常见的热门地区节点。各种套餐，年付、月付、不限时，你能想到的基本上都有，**性价比极高**。是23年开的机场，那时候发展势头挺猛的，各个群里都有人在推，所以我也买了。那时候老板爱折腾，所以线路的稳定性一般，不过那时候线路有0.1X，这还要啥自行车。后来不知是什么原因被打了，群组一直禁言中，不过老板给每人补了1T流量。那时候我以为会跑路，但今年四五月份看的时候，还活的好好的。所以各位就根据自己的情况看吧。 |                                                      [COO](https://web.coo.wiki/#/register?code=Hl02XboO)                                                     |
+  
+</details>
 
-#### 3.2.2 专线机场
+<details open>
+<summary>3.2.2 专线机场</summary>
 
 | 自称专线的机场 |                                                                                                                                                     价格流量图                                                                                                                                                    |                                                                                                                                                                                      评价                                                                                                                                                                                      |                              注册官网                              |
 |:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------:|
@@ -63,7 +70,10 @@
 |     飞天猪     |                                                                                           <a href="https://postimg.cc/hzGm0HCs" target="_blank"><img src="https://i.postimg.cc/hzGm0HCs/24-6-26.png" alt="24-6-26"/></a>                                                                                          |                                                                                                                                **自称IPLC全专线机场**，拥有常见的热门地区节点。提供较全的流媒体解锁，我朋友很喜欢用这机场**刷油管**。**年付小包套餐**挺有吸引力的。                                                                                                                                | [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) |
 |     Arisaka    |                                                                                   <a href="https://postimg.cc/5Y9BRHtw" target="_blank"><img src="https://i.postimg.cc/5Y9BRHtw/24-6-26-Arisaka.png" alt="24-6-26-Arisaka"/></a>                                                                                  |                                                                                                                                                           全专线机场，拥有常见的热门地区节点。提供较全的流媒体解锁，**年付套餐**也是比较有吸引力的。                                                                                                                                                           |     [Arisaka](https://www.arisaka.io/#/register?code=1TFEExPW)     |
 
-#### 3.2.3 直连机场
+</details>
+
+<details>
+<summary>3.2.3 直连机场</summary>
 
 | 直连机场 |                                                                                     价格流量图                                                                                     |                                                                                                                                                    评价                                                                                                                                                   |                                   注册官网                                  |
 |:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
@@ -75,7 +85,10 @@
 | 十元一年 |                           <a href="https://postimg.cc/VSf0Yxcw" target="_blank"><img src="https://i.postimg.cc/VSf0Yxcw/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                  刚开始是一家普通线路的 Hy2 协议的直连机场，后来加了一半左右的中转节点；最近听机场主说要上点专线玩，不过这个价位的专线，质量肯定是不如上述专门的专线机场的（这价格**还要啥自行车**）。                                                                                                                  | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
 |  宝可梦  |                      <a href='https://postimg.cc/dLD04PTJ' target='_blank'><img src='https://i.postimg.cc/dLD04PTJ/24-6-24.png' border='0' alt='24-6-24'/></a>                     |                                                                                                                             普通线路的 Vless 协议机场，好处是可以**白嫖一个月**。                                                                                                                             |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
 
-#### 3.2.4 优惠券和活动
+</details>
+
+<details open>
+<summary>3.2.4 优惠券和活动</summary>
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了）。
 
@@ -84,7 +97,11 @@
 3. [JAY 云](https://t.me/jaycloudbot?start=9) —— 夏季活动：5元10G畅享 0.01X 倍率的 emby 节点套餐（如果只用emby，相当于 1T 流量）。
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— 八折优惠券：hongxing666
 
-#### 3.2.4 在用机场总结
+</details>
+
+
+<details open>
+<summary>3.2.5 在用机场总结</summary>
 
 - **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛，具体看上述机场的描述）、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)
@@ -95,6 +112,9 @@
 - **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **活动力度很大**的机场，且看好发展的机场：[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)
+
+</details>
+
 
 ## 4 杂谈
 
@@ -113,8 +133,8 @@
 ### 4.2 代理软件
 
 对于大部分用户来说**代理软件**使用以下的就行：
-安卓使用：[Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[FlClash](https://github.com/chen08209/FlClash/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
-Windows：[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[V2rayNG](https://github.com/2dust/v2rayN/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
-苹果：小火箭、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
+- 安卓使用：[Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[FlClash](https://github.com/chen08209/FlClash/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
+- Windows：[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[V2rayNG](https://github.com/2dust/v2rayN/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
+- 苹果：小火箭、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
 
 如果不会使用可以注册上述机场的官网，那些**机场官网都有教程**的。
