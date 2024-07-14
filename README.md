@@ -130,7 +130,7 @@
 - 有**回国线路**的机场（国外访问国内）：[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **活动力度很大**的机场，且看好发展的机场：[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)
-- 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)
+- 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9) —— **只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配。
 
 </details>
 
