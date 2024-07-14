@@ -103,10 +103,11 @@
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了）。
 
-1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20，夏季季付套餐：28元享受三月每月200G流量
+1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：28元享受三月每月200G流量
 2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场八折优惠券：202407T3
 3. [JAY 云](https://t.me/jaycloudbot?start=9) —— 夏季活动：5元10G畅享 0.01X 倍率的 emby 节点套餐（如果只用emby，相当于 1T 流量）。
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— 八折优惠券：hongxing666
+5. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份五折优惠券（自称是IPLC机场，本人未有套餐，但是我看过测速图，且新开业，所以应该还是不错的）：hOBNJS8F
 
 </details>
 
