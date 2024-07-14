@@ -118,7 +118,13 @@
 - **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛，具体看上述机场的描述）、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)
 - **性价比**直连机场：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ)
-- **精美小机场**：[JAY 云](https://t.me/jaycloudbot?start=9)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)。
+- **精美小机场**：
+  - [JAY 云](https://t.me/jaycloudbot?start=9)
+  - [To2](https://air.totwo.link/#/register?code=3B4bS6ls)
+  - [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)
+  - [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)
+  - [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)
+  - [LiWell](https://liwell.top/#/register?code=R30SJ14u)（本身也是有一部分专线的低倍率机场，但是我没买，所以就没在上面的图表中写了）
 - 地区和节点数量多的机场（**环球旅游**，有比较多的家宽和商宽）：[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)、[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - 有**回国线路**的机场（国外访问国内）：[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
