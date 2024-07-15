@@ -155,6 +155,6 @@
 对于大部分用户来说**代理软件**使用以下的就行：
 - 安卓使用：[Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[FlClash](https://github.com/chen08209/FlClash/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
 - Windows：[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[V2rayNG](https://github.com/2dust/v2rayN/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
-- 苹果：小火箭、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
+- 苹果：[小火箭](https://apps.apple.com/tw/app/shadowrocket/id932747118)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)
 
 如果不会使用可以注册上述机场的官网，那些**机场官网都有教程**的。
