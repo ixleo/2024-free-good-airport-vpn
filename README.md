@@ -37,7 +37,7 @@
 | Oblivion | 是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。用的时候及时更新软件（刚开始很好用，但是后来不是很好用了）。 |          [Oblivion](https://github.com/bepass-org/oblivion-desktop)         |
 |  迷雾通  |                            免费账号限速125Mbps。                           |                        [迷雾通](https://geph.io/zhs)                        |
 |   IKUUU  |       每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。       |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
-| 十元一年 |        加群白嫖20G流量，不过该流量的套餐会不定时删号。群主脾气偏大。       | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
+| 十元一年 |        加群白嫖20G流量，不过该流量的套餐会不定时删号。       | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
 |  宝可梦  |                        加群获得一个月100G白嫖套餐。                        |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
 
 白嫖机场总结：**免费的东西也是最贵**的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
