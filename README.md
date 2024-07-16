@@ -126,7 +126,7 @@
   - [To2](https://air.totwo.link/#/register?code=3B4bS6ls)
   - [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)
   - [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)
-  - [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)
+  - [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)（后续明确还会涨价）
   - [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)
   - [LiWell](https://liwell.top/#/register?code=R30SJ14u)（本身也是有一部分专线的低倍率机场，但是我没买，所以就没在上面的图表中写了）
 - 地区和节点数量多的机场（**环球旅游**，有比较多的家宽和商宽）：[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)、[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
