@@ -1,9 +1,16 @@
 # 2024年最新免费性价比机场推荐(2024-07)
 
-关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 推荐代理软件：Clash系、Singbox系。
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Here}$$
 
-**友情提示**：点击右上角的三条杠图标（![github目录图标](https://github.com/user-attachments/assets/40064f7f-ed92-4935-9e07-7954c83a51a4)
-）可以查看文章目录
+关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
+文章中涉及的机场：
+- 主专线：渔云、LinkeLess、飞天猪、红杏、Arisaka、LiWell
+- 主中转：Jay云、To2、渔舍、CTC、黑暗森林、次元云、tutucloud、COO、SSTAP、EndNovas
+- 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年、宝可梦
+
+推荐代理软件：Clash系、Singbox系。
+
+$${\color{red}友情提示：点击右上角的三条杠图标 (☰) 可以查看文章目录；文章中的大部分内容被折叠了，可以点击倒三角图标 (▼) 进行展开内容。}$$
 
 ## 1 免责声明
 
@@ -48,7 +55,7 @@
 
 #### 3.2.1 中转机场
 
-<details open>
+<details>
 <summary>中转机场</summary>
 
 |  中转机场 |                                                                                                                                                                                                                                                                                             价格流量图                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                          评价                                                                                                                                                                                                          |                                                 注册官网（大部分是网页注册的，除了 JAY 云是TG上机器人注册的）                                                 |
@@ -68,7 +75,7 @@
 
 #### 3.2.2 专线机场
 
-<details open>
+<details>
 <summary>专线机场</summary>
 
 | 自称专线的机场 |                                                                                                                                                     价格流量图                                                                                                                                                    |                                                                                                                                                                                      评价                                                                                                                                                                                      |                              注册官网                              |
@@ -100,7 +107,7 @@
 
 #### 3.2.4 优惠券和活动
 
-<details open>
+<details>
 <summary>优惠券和活动</summary>
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了）。
@@ -116,11 +123,11 @@
 
 #### 3.2.5 机场总结
 
-<details open>
+<details>
 <summary>机场总结</summary>
 
-- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)
-- **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛，具体看上述机场的描述）、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)
+- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)
+- **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛，具体看上述机场的描述）、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（目前有10元100G套餐，机场主有想转全专线的想法，所以就放性价比专线这一栏了。）
 - **性价比**直连机场：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ)
 - **精美小机场**：
   - [JAY 云](https://t.me/jaycloudbot?start=9)
@@ -138,10 +145,12 @@
 
 </details>
 
-
 ## 4 杂谈
 
 ### 4.1 机场杂谈
+
+<details>
+<summary>机场杂谈</summary>
 
 - 关于 VPN 和机场的选择：选机场。大部分 VPN 在大陆是又贵又难用，虽然 VPN 的加密协议很吸引人，但是遭不住难用啊。一说 VPN 我就想起了我年付的 VPN —— 难用的一批，下载的 VPN 客户端软件不能用，在 Windows 上需要下载他们指定的软件和特定的配置文件——而且连接效率慢，延迟比普通的中转机场高，还时不时不能连接。不过上述的迷雾通算是 VPN 中比较好用的一类，但还是有些贵，年付450左右（本人迷雾通未尝试付费款，所以无法得知迷雾通的实际体验效果和一般机场的差别，欢迎使用过迷雾通的小伙伴在 Issues 区解答）；且迷雾通节点挂了就是全挂，但是机场你可以买多个订阅进行组合，来达到不全挂的目的。
 - 手上机场数量：**多备几个机场**！！！！！！！！机场的更新换代比较快，国内防火墙时不时抽风发威，D哥偶尔敲诈几个机场，还有机场间的互D，这些问题导致手里难免会有几个机场中标，所以可以多备几个。推荐手里的机场有：**专线机场+中转机场+HY/Vless协议的直连机场**（最近这一段时间**新疆用户**用直连机场的体验好于一般的中转机场）
@@ -155,12 +164,15 @@
 - 要买大鸡厂吗：**不要迷恋大机场和老机场**。机场被打的时候该挂还是挂。跑路也不分大小机场。大的机场一般节点质量会好些，但是一般的一线机场可能会有以下问题：*审计的国外网站多*、*晚高峰限速*、*在TG上没有群组*、*账号无法更改邮箱*（不好卖机场套餐）、*限制IP严重*等。所以看自身的需求选择机场，大机场有他贵的理由，小机场有他的性价比，适合自己的才是真正的好。
 - 在TG频道上经常打广告的机场可以买吗：一般在TG上打广告的机场很容易被打，这会影响机场的稳定性和速度，且后面可能会存在超售的情况（机场到后面肯定会存在超售情况的吧？）；但一般打广告的机场价格也会便宜些。所以这也是一场赌博，赌你在正常使用期间能不能把机场的价值使用最大化。
 
+</details>
+
+
 ### 4.2 代理软件
 
 对于大部分用户来说**代理软件**使用以下的就行：
 - 安卓使用：[Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid)、[FlClash](https://github.com/chen08209/FlClash/releases)、[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)、[v2rayNG](https://github.com/2dust/v2rayNG/releases/tag/1.8.29)、[Sing-box](https://github.com/SagerNet/sing-box/releases)
-- Windows：[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[V2rayN](https://github.com/2dust/v2rayN/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)、[Sing-box](https://github.com/SagerNet/sing-box/releases)、[GUI for Sing-box](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/)
-- 苹果手机 iOS 或 macOS：[小火箭](https://apps.apple.com/tw/app/shadowrocket/id932747118)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)、[FlClash](https://github.com/chen08209/FlClash/releases)
-- Linux：[Sing-box](https://github.com/SagerNet/sing-box/releases)、[GUI for Sing-box](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/)、[FlClash](https://github.com/chen08209/FlClash/releases)、[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)
+- Windows：[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[FlClash](https://github.com/chen08209/FlClash/releases)、[V2rayN](https://github.com/2dust/v2rayN/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)、[Sing-box](https://github.com/SagerNet/sing-box/releases)、[GUI for Sing-box](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/)
+- 苹果手机 iOS 或 macOS：[小火箭](https://apps.apple.com/tw/app/shadowrocket/id932747118)、[Karing](https://karing.app/quickstart/?sign=ad0f77b86f1aaf9a9a4e280334dd1409&did=01907c4e4b62732da8901a6fd54b2b55&from=karing&i_r=windows&l_t=zh-CN&new=true&p_f=windows&r_c=cn&s_l_t=zh-CN&s_r_c=cn&t_z_o=8&ts=1720072499494&v=1.0.24.294#)、[FlClash](https://github.com/chen08209/FlClash/releases)、[Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
+- Linux：[Sing-box](https://github.com/SagerNet/sing-box/releases)、[GUI for Sing-box](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/)、[FlClash](https://github.com/chen08209/FlClash/releases)、[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
 
 如果不会使用可以注册上述机场的官网，那些**机场官网都有教程**的。
