@@ -2,7 +2,6 @@
 
 $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \space \Huge \color{orange}Here}$$
 
-
 关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
 文章中涉及的机场：
 - 主专线：渔云、LinkeLess、飞天猪、红杏、Arisaka、LiWell
@@ -11,7 +10,7 @@ $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \spa
 
 推荐代理软件：Clash系、Singbox系。
 
-$${\color{red}友情提示：点击右上角的三条杠图标 \space \color{black} \space (☰) \space \color{red}可以查看文章目录；文章中的大部分内容被折叠了，可以点击三角图标 \space \color{black} \space (▶)  \space \color{red}进行内容的展开}$$
+$${\large \color{red}友情提示：点击右上角的三条杠图标 \space \color{black} \space (☰) \space \color{red}可以查看文章目录；文章中的大部分内容被折叠了，可以点击三角图标 \space \color{black} \space (▶)  \space \color{red}进行内容的展开。}$$
 
 ## 1 免责声明
 
