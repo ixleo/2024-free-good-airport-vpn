@@ -11,7 +11,7 @@ $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \spa
 
 推荐代理软件：Clash系、Singbox系。
 
-$${\color{red}友情提示：点击右上角的三条杠图标 \space \color{black} \space (☰) \space \color{red}可以查看文章目录；文章中的大部分内容被折叠了，可以点击倒三角图标 \space \color{black} \space (▼)  \space \color{red}进行内容的展开}$$
+$${\color{red}友情提示：点击右上角的三条杠图标 \space \color{black} \space (☰) \space \color{red}可以查看文章目录；文章中的大部分内容被折叠了，可以点击三角图标 \space \color{black} \space (▶)  \space \color{red}进行内容的展开}$$
 
 ## 1 免责声明
 
