@@ -3,7 +3,8 @@
 $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \space \Huge \color{orange}Here}$$
 
 关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
-文章中涉及的机场：
+
+文章中涉及的机场（有些中转为主的机场是有专线节点的，也有直连为主的机场是有中转节点的，具体情况可以看机场表格里的描述）：
 - 主专线：渔云、LinkeLess、飞天猪、红杏、Arisaka
 - 主中转：Jay云、To2、渔舍、CTC、黑暗森林、次元云、tutucloud、COO、SSTAP、EndNovas、LiWell
 - 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年、宝可梦
@@ -47,7 +48,9 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 | 十元一年 |        加群白嫖20G流量，不过该流量的套餐会不定时删号。       | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
 |  宝可梦  |                        加群获得一个月100G白嫖套餐。                        |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
 
-白嫖机场总结：**免费的东西也是最贵**的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
+--- 
+
+**白嫖机场总结**：*免费的东西也是最贵*的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
 
 </details>
 
