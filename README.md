@@ -192,3 +192,7 @@ Emmmmm......我也不能给你做选择，直接告诉你该买哪个。你可�
 - Linux：[Sing-box](https://github.com/SagerNet/sing-box/releases)、[GUI for Sing-box](https://github.com/GUI-for-Cores/GUI.for.SingBox/releases/)、[FlClash](https://github.com/chen08209/FlClash/releases)、[Clash Verge Rev](https://github.com/Clash-Verge-rev/clash-verge-rev/releases)、[NekoBox](https://github.com/MatsuriDayo/nekoray/releases)、[Nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
 
 如果不会使用可以注册上述机场的官网，那些**机场官网都有教程**的。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LucidaPlus/2024-free-good-airport-vpn&type=Timeline)](https://star-history.com/#LucidaPlus/2024-free-good-airport-vpn&Timeline)
