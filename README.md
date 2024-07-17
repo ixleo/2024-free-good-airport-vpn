@@ -121,6 +121,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— 八折优惠券：hongxing666
 5. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份五折优惠券（自称是IPLC机场，本人未有套餐，但是我看过测速图，且新开业，所以应该还是不错的）：hOBNJS8F
 6. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 最近新出了一个防失联套餐，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+7. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)：八八折优惠——duangvps
 
 </details>
 
