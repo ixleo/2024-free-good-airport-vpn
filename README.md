@@ -46,7 +46,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 |  迷雾通  |                            免费账号限速125Mbps。                           |                        [迷雾通](https://geph.io/zhs)                        |
 |   IKUUU  |       每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。       |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
 | 十元一年 |        加群白嫖20G流量，不过该流量的套餐会不定时删号。       | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
-|  宝可梦  |                        加群获得一个月100G白嫖套餐。                        |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
+|  宝可梦  |                        加群可以无限白嫖一个月100G的套餐。                        |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
 
 --- 
 
