@@ -31,28 +31,31 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 ### 3.1 白嫖途径
 
-#### 3.1.1 节点池
+#### 3.1.1 白嫖机场
 
-网上会有一些网站爬出节点，然后会放在他的网站或者TG频道中，需要的自行查找。
-
-#### 3.1.2 白嫖机场
-
-<details open>
+<details>
 <summary>白嫖机场</summary>
 
-| 白嫖机场 |                                  流量情况                                  |                                     地址                                    |
-|:--------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| Oblivion | 是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。用的时候及时更新软件（刚开始很好用，但是后来不是很好用了）。 |          [Oblivion](https://github.com/bepass-org/oblivion-desktop)         |
-|  迷雾通  |                            免费账号限速125Mbps。                           |                        [迷雾通](https://geph.io/zhs)                        |
-|   IKUUU  |       每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。       |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
-| 十元一年 |        加群白嫖20G流量，不过该流量的套餐会不定时删号。       | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
-|  宝可梦  |                        加群可以无限白嫖一个月100G的套餐。                        |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
+|       白嫖机场      |                                                                                                         流量情况                                                                                                        |                                     地址                                    |
+|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+|        宝可梦       |                                                                                            加TG群可以无限白嫖一个月100G的套餐。                                                                                           |         [宝可梦](https://love.52pokemon.cc/#/sign-up?code=UNuESFLb)         |
+| 华夏联盟 Accelerate |                                                                         在官网可以免费下单套餐使用一个月的机场（月套餐可无限免费购买和叠加）。9PB流量套餐。                                                                         |      [华夏联盟](http://154.12.87.218/index.php#/register?code=jqOEMtgu)     |
+|        IKUUU        |                                                                              每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。                                                                             |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
+|       十元一年      |                                                                                     加群白嫖20G流量，不过该流量的套餐会不定时删号。                                                                                     | [十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ) |
+|        迷雾通       |                                                                                                  免费账号限速125Mbps。                                                                                                  |                        [迷雾通](https://geph.io/zhs)                        |
+|     ~~Oblivion（目前无法使用）~~    | 是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。刚开始很好用，但是后来不是很好用了。现在我这边是无法使用的状态，可能未来更新软件后可以使用。[参考文章](https://github.com/bepass-org/oblivion-desktop/issues/367) |          [Oblivion](https://github.com/bepass-org/oblivion-desktop)         |
 
 --- 
 
 **白嫖机场总结**：*免费的东西也是最贵*的，在价格上看起来是白嫖，但这需要你在其他地方找补——时间和精力。
 
 </details>
+
+
+#### 3.1.2 其他白嫖途径
+
+- 节点池：网上会有一些网站爬出节点，然后会放在他的网站或者TG频道中，需要的自行查找。
+- 破解版VPN/加速器等软件：需要时不时去找那些能用的破解版软件。
 
 ### 3.2 机场
 
@@ -70,7 +73,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 |  黑暗森林 |                                                                                                                                                                                                              <a href="https://postimg.cc/CdX8jrbC" target="_blank"><img src="https://i.postimg.cc/CdX8jrbC/24-6-26.png" alt="24-6-26"/></a>                                                                                                                                                                                                             |                                                     全中转机场、用有常见的热门地区节点。提供较全的流媒体解锁，除热门节点外还有马来西亚、希腊、英国、丹麦、荷兰、西班牙、卢森堡、法国、斯洛伐克、瑞士、爱沙尼亚、瑞典、冰岛、乌克兰、摩尔多瓦等节点（有**台湾家宽节点、IPLC节点、游戏节点**——需要工单开通）。拥有 0.3X-5X 倍率的节点，机场主**喜欢打瓦**，欢迎小伙伴一起来。                                                    |                                                 [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)                                                 |
 |   SSTAP   | <a href="https://postimg.cc/njSDPQ73" target="_blank"><img src="https://i.postimg.cc/njSDPQ73/24-6-26-SSTAP.png" alt="24-6-26-SSTAP"/></a> <a href="https://postimg.cc/XGY5LgZZ" target="_blank"><img src="https://i.postimg.cc/XGY5LgZZ/24-6-26-SSTAP.png" alt="24-6-26-SSTAP"/></a> |                                                                                                                                                                                **200+节点、各种冷门地区节点和家宽**、喜欢逛全球的可以购买。                                                                                                                                                                                |                                                       [SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)                                                      |
 |  EndNovas |                                                                                                                                                                                         <a href="https://postimg.cc/1VfpyLwX" target="_blank"><img src="https://i.postimg.cc/1VfpyLwX/24-6-26-Ed-Novas.png" alt="24-6-26-Ed-Novas"/></a>                                                                                                                                                                                        |                                                                                                                                                         **180+节点**，也是很多冷门地区的节点，不过被打后节点只有三分之二在线。机场主在国外，有事需要凌晨左右找他。                                                                                                                                                         |                                                    [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)                                                   |
-|   次元云  |                                                                                                                                                                                                  <a href="https://postimg.cc/cg5nkX2S" target="_blank"><img src="https://i.postimg.cc/cg5nkX2S/24-6-26.png" alt="24-6-26"/></a>                                                                                                                                                                                                 |                                                中转机场（香港节点偷偷上了专线），被打之前性价比和稳定性十分高，拥有常见热门地区的节点，还有、法国、挪威、马来西亚、印度、越南、土耳其、澳大利亚、泰国、英国等地区节点！但是被打后有些一蹶不振，如果要求不高，也可以看看这家。性价比不是最高的，但是**做活动的时候性价比很高**。比如三周年套餐就是 100+ 元，一年3T流量，没用完的话下年继续重置流量！                                                |                                                       [次元云](https://ciyy.cc/#/register?code=9B4x7pu0)                                                      |
+|   次元云  |                                                                                                                                                                                                  <a href="https://postimg.cc/cg5nkX2S" target="_blank"><img src="https://i.postimg.cc/cg5nkX2S/24-6-26.png" alt="24-6-26"/></a>                                                                                                                                                                                                 |                                                中转机场（香港某些节点偷偷上了**专线**），四年老机场，被打之前性价比和稳定性十分高，拥有常见热门地区的节点，还有、法国、挪威、马来西亚、印度、越南、土耳其、澳大利亚、泰国、英国等地区节点！被打后有些一蹶不振，但正在慢慢恢复中。性价比不是最高的，但是**做活动的时候性价比很高**。比如三周年套餐就是 100+ 元，一年3T流量，没用完的话下年继续重置流量！                                                |                                                       [次元云](https://ciyy.cc/#/register?code=9B4x7pu0)                                                      |
 | tutucloud |                                                                                                                                                                                                    <a href="https://postimg.cc/HJdXrJXf" target="_blank"><img src="https://i.postimg.cc/HJdXrJXf/24-6-26-tutucloud.png" alt="24-6-26-tutucloud"/></a>                                                                                                                                                                                                   |                                                                                                                                                              大部分中转、三个直连节点的**小众精品机场**。提供较全的流媒体解锁，除热门节点外还有印度、澳门等节点。                                                                                                                                                              |                                               [tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)                                              |
 |    COO    |                                                                                                                                                                                                          <a href="https://postimg.cc/bG90g0qy" target="_blank"><img src="https://i.postimg.cc/bG90g0qy/24-6-26-COO.png" alt="24-6-26-COO"/></a>                                                                                                                                                                                                         | 全中转机场、用有常见的热门地区节点。各种套餐，年付、月付、不限时，你能想到的基本上都有，**性价比极高**。是23年开的机场，那时候发展势头挺猛的，各个群里都有人在推，所以我也买了。那时候老板爱折腾，所以线路的稳定性一般，不过那时候线路有0.1X，这还要啥自行车。后来不知是什么原因被打了，群组一直禁言中，不过老板给每人补了1T流量。那时候我以为会跑路，但今年四五月份看的时候，还活的好好的。所以各位就根据自己的情况看吧。 |                                                      [COO](https://web.coo.wiki/#/register?code=Hl02XboO)                                                     |
   
@@ -115,14 +118,15 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了）。
 
-1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：28元享受三月每月200G流量
-2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场八折优惠券：202407T3
-3. [JAY 云](https://t.me/jaycloudbot?start=9) —— 夏季活动：5元10G畅享 0.01X 倍率的 emby 节点套餐（如果只用emby，相当于 1T 流量）。
-4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— 八折优惠码：hongxing666
-5. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份五折优惠码（自称是IPLC机场，本人未有套餐，但是我看过测速图，且新开业，所以应该还是不错的）：hOBNJS8F
-6. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 最近新出了一个防失联套餐，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
-7. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)：八八折优惠——duangvps
-8. [REC](https://my.recmata.net/#/register?code=oOcZX7qQ)：Standard套餐八折优惠码（截止24-7-24号）：SAVE-FACMATA-NET
+1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量
+2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
+3. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
+4. [JAY 云](https://t.me/jaycloudbot?start=9) —— 夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
+5. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠码：hongxing666
+6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份**五折优惠券**（自称是IPLC机场，本人未有套餐，但是我看过测速图，且新开业，所以应该还是不错的）：hOBNJS8F
+7. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+8. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
+9. [REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET
 
 </details>
 
@@ -146,6 +150,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 - 地区和节点数量多的机场（**环球旅游**，有比较多的家宽和商宽）：[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)、[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - 有**回国线路**的机场（国外访问国内）：[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
+- 自称**无审计**的机场：[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)
 - **活动力度很大**的机场，且看好发展的机场：[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9) —— **只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（刚开业没多久就整上 Emby 了）
 
