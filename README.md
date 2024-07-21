@@ -119,7 +119,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <details>
 <summary>其他未使用过的一线机场</summary>
 
-在这里的机场是TG上公认有名的机场，这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场补足，也为了方便大家对比高端机场，所以特此放在这里。
+在这里的机场是TG上公认有名的机场，这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场不足，也为了方便大家对比高端机场，所以特此放在这里。
 在这里先把这些机场做个概述：
 - 唯云机场：奶昔、Amy、Imm、Kuromi；这四家机场人称唯云四杰，其中奶昔算是四小杰之首。
 - Mesl：有UDPN线路。
@@ -138,6 +138,8 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 |     Ytoo     |                                                                                                                                                      <a href="https://postimg.cc/Yhsm12tR" target="_blank"><img src="https://i.postimg.cc/Yhsm12tR/24-7-21-YTOO.png" alt="24-7-21-YTOO"/></a> <a href="https://postimg.cc/BjPPNW60" target="_blank"><img src="https://i.postimg.cc/BjPPNW60/24-7-21-YTOO.png" alt="24-7-21-YTOO"/></a>                                                                                                                                                      |                                [Ytoo](https://y-too.com/aff.php?aff=5041)                               |
 |     Mesl     |                                                                                                                                                                                                                           <a href="https://postimg.cc/rRyt9Kdn" target="_blank"><img src="https://i.postimg.cc/rRyt9Kdn/24-7-21-MESL.png" alt="24-7-21-MESL"/></a>                                                                                                                                                                                                                          |                          [Mesl](https://in.mesl.cloud/#/register?code=4Dt95iV0)                         |
 |   西部数据   |                                                                                                                                            <a href="https://postimg.cc/w7vmyRY3" target="_blank"><img src="https://i.postimg.cc/w7vmyRY3/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a> <a href="https://postimg.cc/G9zDmJNZ" target="_blank"><img src="https://i.postimg.cc/G9zDmJNZ/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a>                                                                                                                                            |                             [西部数据](https://wd-gold.com/aff.php?aff=7900)                            |
+
+某位网友分享的**一线机场对比图**：<a href='https://postimg.cc/Q9dfFx8D' target='_blank'><img src='https://i.postimg.cc/Q9dfFx8D/image.jpg' border='0' alt='image'/></a>
 
 </details>
 
