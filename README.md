@@ -147,10 +147,10 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 #### 3.2.5 优惠券和活动
 
+一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了；还有就是不用盯着有优惠券的机场买，也有些机场性价比很高了，所以常年没有优惠券）。
+
 <details>
 <summary>优惠券和活动</summary>
-
-一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了；还有就是不用盯着有优惠券的机场买，也有些机场性价比很高了，所以常年没有优惠券）。
 
 1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量
 2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
@@ -163,6 +163,12 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 9. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
 10. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**八折**优惠券*：ANNUALLY-20OFF ，半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF 
 11. [REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET
+
+---
+  
+1. [花云](https://flowercloud.net/aff.php?aff=9199) —— 夏日优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / 企业套餐）：SUN20
+2. [Ytoo](https://y-too.com/aff.php?aff=5041) —— 七月优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / Team套餐）：202407
+3. [西部数据](https://wd-gold.com/aff.php?aff=7900) —— 85折优惠码（7月01日 - 7月31日）: JQ90P6O2ZY
 
 </details>
 
