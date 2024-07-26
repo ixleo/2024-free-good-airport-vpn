@@ -155,7 +155,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量
 2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
 3. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
-4. [JAY 云](https://t.me/jaycloudbot?start=9) —— 夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
+4. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
 5. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
 6. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— 开业八折优惠码（7月24日 - 7月31日）：724520 ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
 
