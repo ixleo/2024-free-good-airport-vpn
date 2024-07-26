@@ -164,7 +164,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
 11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**八折**优惠券*：ANNUALLY-20OFF ，半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF 
-12. [REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET
+12. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
   
