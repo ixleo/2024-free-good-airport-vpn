@@ -198,6 +198,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 - 自称**无审计**的机场：[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)
 - **活动力度很大**的机场，且看好发展的机场：[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（未来会涨价，且可能会上**唯云专线**，可以赌一手）
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（刚开业没多久就整上 Emby 了）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)（目前 Emby 服务还在修复中）
+- **唯一/唯云**专线机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)（唯云第一机场）、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[AmyTelecom](https://www.amytele.net)、[Kuromi](https://www.kuromis.com)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（目前未上唯云，8月份应该会上？目前来看性价比最高，就是月付限速百兆）
 
 </details>
 
@@ -243,7 +244,7 @@ Emmmmm......我也不能给你做选择，直接告诉你该买哪个。你可�
 <summary>机场相关的新闻</summary>
 
 - **中转机场的价格可能会提升**：最近移动的跨省限速政策，广东那边移动入口机器被限速，这会导致很多国内中转机场带宽不足。如果持续下去，国内移动中转机将会大幅度涨价或者更换电信/联通入口中转机，都会导致机场涨价（即使是专线中转机场，也需要将入口更换为电信入口机子）。参考文章，[中国移动“省间结算”政策，强制丢包](https://www.nodeseek.com/post-133588-1)
-- 7月份大会期间，一些 HY 协议的机场被墙：直连不管什么协议流量大了都很容易被墙。[参考TG上的一篇文章](https://t.me/paoluztz/4628)
+- ~~7月份大会期间，一些 HY 协议的机场被墙~~（开会时间过去就好了）：直连不管什么协议流量大了都很容易被墙。[参考TG上的一篇文章](https://t.me/paoluztz/4628)
 
 </details>
 
