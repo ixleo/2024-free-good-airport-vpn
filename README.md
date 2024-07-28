@@ -190,7 +190,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
   - [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)
   - [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)
   - [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)（后续明确还会涨价）
-  - [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)
+  - [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)（套餐流量用完后有一定概率会被机场主宠幸——**免费重置流量**）
   - [LiWell](https://liwell.top/#/register?code=R30SJ14u)（本身也是有一部分2X倍率专线的机场，但是我没买，所以就没在上面的图表中写了）
 - 地区和节点数量多的机场（**环球旅游**，有比较多的家宽和商宽）：[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)、[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - 有**回国线路**的机场（国外访问国内）：[EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
@@ -198,7 +198,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 - 自称**无审计**的机场：[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)
 - **活动力度很大**的机场，且看好发展的机场：[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（未来会涨价，且可能会上**唯云专线**，可以赌一手）
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（刚开业没多久就整上 Emby 了）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)（目前 Emby 服务还在修复中）
-- **唯一/唯云**专线机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)（唯云第一机场）、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[AmyTelecom](https://www.amytele.net)、[Kuromi](https://www.kuromis.com)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（目前未上唯云，8月份应该会上？目前来看性价比最高，就是月付限速百兆）
+- **唯一/唯云**专线机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)（唯云第一机场）、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[AmyTelecom](https://www.amytele.net)、[Kuromi](https://www.kuromis.com)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（目前未上唯云，8月份应该会上？目前来看性价比最高，就是月付限速百兆）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)（服务很好，可在群组里实时反馈问题，一般都能得到及时的解决，缺点是有限速。）
 
 </details>
 
