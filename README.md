@@ -124,7 +124,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 以下大部分机场在TG上是有一些知名度的（这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场不足，也为了方便大家对比高端机场，所以特此放在这里）。
 在这里先把这些机场做个概述：
 - 唯云机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)、[AmyTelecom](https://www.amytele.net)、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[Kuromi](https://www.kuromis.com)；这四家机场人称唯云四杰，其中奶昔算是四小杰之首。
-- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**：目前半年付和年付套餐也上了**唯云专线**，**性价比**是正常倍率的唯云专线里最高的，但是低配套餐带宽给的少（如果希望同等性价比的条件下带宽给的大些的可以看下 **[红杏](https://hx666.info/#/register?code=i1fYOnIi)**，具体可以看上述表格中对于红杏的描述）。
+- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**：目前半年付和年付套餐也上了**唯云专线**，**性价比**是正常倍率的唯云专线里最高的，目前是各种**商宽**、**家宽**（台湾）、**游戏IPLC**、**星链**等节点，但是低配套餐带宽给的少（如果希望同等性价比的条件下带宽给的大些的可以看下 **[红杏](https://hx666.info/#/register?code=i1fYOnIi)**，具体可以看上述表格中对于红杏的描述）。
 - [Mesl](https://in.mesl.cloud/#/register?code=4Dt95iV0)：有UDPN线路。
 - [Tag](https://tagss04.pro/#/auth/6VKNYeoh)：冷门节点、家宽很多。
 - [花云](https://flowercloud.net/aff.php?aff=9199)、[Ytoo](https://y-too.com/aff.php?aff=5041)：年付很有性价比，有低倍率0.2X节点，速度和正常节点差不多，不过听说年付和低价月付容易进内鬼组。（之前花云的香港节点晚高峰很拉）
@@ -202,7 +202,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 - **活动力度很大**的机场，且**看好发展**的机场：[JAY 云](https://t.me/jaycloudbot?start=9)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（未来会涨价，目前半年付和年付套餐上了 **唯云专线**，同青瓦）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（刚开业没多久就整上 Emby 了）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)
 - **唯一/唯云**专线机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)（唯云第一机场）、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[AmyTelecom](https://www.amytele.net)、[Kuromi](https://www.kuromis.com)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（目前~~未~~上了唯云，目前来看性价比最高，就是月付限速百兆）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)（服务很好，可在群组里实时反馈问题，一般都能得到及时的解决，缺点是有限速。）
-- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**和**[红杏](https://hx666.info/#/register?code=i1fYOnIi)**：两个算是同一个老板开的。目前这两个机场都是上了**唯云专线**：目前两个机场都是半年付及以上的套餐增加了唯云专线的节点——节点后缀是 **BGP** 命名的；套餐内容方面：青瓦是年付**一次性**给一年的流量，而红杏年付是**每月给固定的流量**；**线路**上面：青瓦优于红杏一些；带宽方面：两者月付的带宽区别还是挺大的，目前红杏最低配的年付带宽会大些（1000M，青瓦的最低配带宽则是100M）。目前来看，这两家算是**性价比最高**的唯云专线机场。大家可以根据需求选择线路优化更好些的青瓦或者带宽更大的红杏。目前7月底这两家的价格是没有变化的，但是在8月份的时候**将会迎来涨价**，感兴趣的小伙伴可以及时入手（**Tips**：目前两家都可以**薅羊毛**，通过要求好友购买的方式来延长套餐时间，当然恶意的刷时长肯定不行的啦；红杏需要发工单申请，青瓦的话应该也需要发工单？可咨询下客服）。
+- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**和**[红杏](https://hx666.info/#/register?code=i1fYOnIi)**：两个算是同一个老板开的。目前这两个机场都是上了**唯云专线**：目前两个机场都是半年付及以上的套餐增加了唯云专线的节点——节点后缀是 **BGP** 命名的；套餐内容方面：青瓦是年付**一次性**给一年的流量，而红杏年付是**每月给固定的流量**；**线路**上面：青瓦优于红杏一些，有各种**商宽**、**家宽**（台湾）、**游戏IPLC**、**星链**等节点；带宽方面：两者月付的带宽区别还是挺大的，目前红杏最低配的年付带宽会大些（1000M，青瓦的最低配带宽则是100M）。目前来看，这两家算是**性价比最高**的唯云专线机场。大家可以根据需求选择线路优化更好些的青瓦或者带宽更大的红杏。目前7月底这两家的价格是没有变化的，但是在8月份的时候**将会迎来涨价**，感兴趣的小伙伴可以及时入手（**Tips**：目前两家都可以**薅羊毛**，通过要求好友购买的方式来延长套餐时间，当然恶意的刷时长肯定不行的啦；红杏需要发工单申请，青瓦的话应该也需要发工单？可咨询下客服）。
 
 </details>
 
