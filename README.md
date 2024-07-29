@@ -124,7 +124,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 以下大部分机场在TG上是有一些知名度的（这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场不足，也为了方便大家对比高端机场，所以特此放在这里）。
 在这里先把这些机场做个概述：
 - 唯云机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)、[AmyTelecom](https://www.amytele.net)、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[Kuromi](https://www.kuromis.com)；这四家机场人称唯云四杰，其中奶昔算是四小杰之首。
-- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**：目前半年付和年付套餐也上了**唯云专线**，**性价比**是正常倍率的唯云专线里最高的，目前是各种**商宽**、**家宽**（台湾）、**游戏IPLC**、**星链**等节点，但是低配套餐带宽给的少（如果希望同等性价比的条件下带宽给的大些的可以看下 **[红杏](https://hx666.info/#/register?code=i1fYOnIi)**，具体可以看上述表格中对于红杏的描述）。
+- **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**：目前半年付和年付套餐也上了**唯云专线**，**性价比**是正常倍率的唯云专线里最高的，目前是各种**商宽**、**家宽**（台湾）、**游戏IPLC**、**星链**等节点，但是低配套餐带宽给的少（如果希望同等性价比的条件下带宽给的大些的可以看下 **[红杏](https://hx666.info/#/register?code=i1fYOnIi)**，具体可以看上述表格中对于红杏的描述；其他青瓦套餐福利：青瓦团企半年付以上的套餐，支持用户**自带一个服务器**用他家的线路进行配置。）。
 - [Mesl](https://in.mesl.cloud/#/register?code=4Dt95iV0)：有UDPN线路。
 - [Tag](https://tagss04.pro/#/auth/6VKNYeoh)：冷门节点、家宽很多。
 - [花云](https://flowercloud.net/aff.php?aff=9199)、[Ytoo](https://y-too.com/aff.php?aff=5041)：年付很有性价比，有低倍率0.2X节点，速度和正常节点差不多，不过听说年付和低价月付容易进内鬼组。（之前花云的香港节点晚高峰很拉）
