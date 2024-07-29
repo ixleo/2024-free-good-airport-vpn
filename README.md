@@ -5,7 +5,7 @@ $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \spa
 关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
 
 文章中涉及的一些在使用的机场（不包括未使用的其余一线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
-- 主专线：渔云、LinkeLess、飞天猪、红杏、Arisaka、3A 加速
+- 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka
 - 主中转：Jay云、To2、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EndNovas
 - 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年、宝可梦
 
