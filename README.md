@@ -165,7 +165,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 8. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份**五折优惠券**（自称是IPLC机场，刚刚拥有套餐，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上五折优惠券，100G月套餐**每年仅需70元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：hOBNJS8F
 9. [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d) —— 九折套餐：
-10. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+10. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 11. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
 12. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**八折**优惠券*：ANNUALLY-20OFF ，半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF 
 13. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
