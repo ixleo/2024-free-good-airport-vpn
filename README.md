@@ -1,4 +1,4 @@
-# 2024年最新免费性价比机场推荐(2024-07)
+# 2024年最新免费性价比机场推荐(2024-08)
 
 $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \space \Huge \color{orange}Here}$$
 
@@ -107,7 +107,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 | 直连机场 |                                                                                     价格流量图                                                                                     |                                                                                                                                                    评价                                                                                                                                                   |                                   注册官网                                  |
 |:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| 最长跑道 |      <a href="https://postimg.cc/dhKTf7HL" target="_blank"><img src="https://i.postimg.cc/dhKTf7HL/Snipaste-2024-06-26-04-49-49.png" alt="Snipaste-2024-06-26-04-49-49"/></a>      |                                                                                                 **优化直连线路**机场，是 Vless Reality + Hy2 协议，节点数量比较少，节点是 0.1X-2X 倍率。目前是**新疆那边体验最好**的一家直连机场之一（目前未在TG上运营）。                                                                                                 |           [最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)           |
+| 最长跑道 |      <a href="https://postimg.cc/dhKTf7HL" target="_blank"><img src="https://i.postimg.cc/dhKTf7HL/Snipaste-2024-06-26-04-49-49.png" alt="Snipaste-2024-06-26-04-49-49"/></a>      |                                                                                                 **优化直连线路**机场，是 Vless Reality + Hy2 协议，节点数量比较少，节点是 0.5X-1.5X 倍率。目前是**新疆那边体验最好**的一家直连机场之一（目前未在TG上运营）。                                                                                                 |           [最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)           |
 |   CTC2   | <a href='https://postimg.cc/t7mD9Mqq' target='_blank'><img src='https://i.postimg.cc/t7mD9Mqq/24-7-16-CTC-02.png' border='0' alt='24-7-16-CTC-02'/></a> |                                                                                也是**优化直连线路**机场，是 Vless Reality 协议，节点数量也不多，节点是 0.03X-10X 倍率。目前是新疆那边体验最好的一家直连机场之一。最新新出年付15元保号套餐。但是这家只能半年付或者年付（月付套餐很贵；不过半年付也是挺有性价比的）。                                                                                |             [CTC2](https://www.ctc.run/#/register?code=mHZErEhf)            |
 | Best VPN |                  <a href="https://postimg.cc/9DTYR5Sq" target="_blank"><img src="https://i.postimg.cc/9DTYR5Sq/24-6-26-Best-VPN.png" alt="24-6-26-Best-VPN"/></a>                  | 也是**优化直连线路**机场，是 Hy1 + Hy2 协议，节点数量比较多，节点是 1X-2X 倍率。除热门地区的节点外，还有**比较多的冷门节点**（越南、瑞典、俄罗斯、加拿大、荷兰、法国、德国西班牙、英国、墨西哥、澳洲、瑞士、印度、阿联酋、智利、巴西、阿根廷、南非、意大利、以色列等节点）。我这边东部使用还可以，但是我那新疆的朋友说使用体验一般。 |        [Best VPN（大）](https://go.bv2.xyz/#/register?code=G9hwKOnV)        |
 | 狗狗加速 |                           <a href="https://postimg.cc/NL5T2v2f" target="_blank"><img src="https://i.postimg.cc/NL5T2v2f/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                                          和 Best VPN 同样的情况。                                                                                                                                         |           [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)          |
@@ -161,9 +161,9 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 4. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
 5. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
 6. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
-7. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— 开业八折优惠码（7月24日 - 7月31日）：724520 ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
+7. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
 
-8. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 新开业7月份**五折优惠券**（自称是IPLC机场，刚刚拥有套餐，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上五折优惠券，100G月套餐**每年仅需70元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：hOBNJS8F
+8. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— ~~新开业7月份**五折优惠券**~~（自称是IPLC机场，刚刚拥有套餐，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上五折优惠券，100G月套餐**每年仅需70元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：hOBNJS8F
 9. [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d) —— 九折套餐：
 10. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 11. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
@@ -171,7 +171,8 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 13. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
-  
+
+下述优惠券在8-1号的时候验证**可用**
 1. [花云](https://flowercloud.net/aff.php?aff=9199) —— 夏日优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / 企业套餐）：SUN20
 2. [Ytoo](https://y-too.com/aff.php?aff=5041) —— 七月优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / Team套餐）：202407
 3. [西部数据](https://wd-gold.com/aff.php?aff=7900) —— 85折优惠码（7月01日 - 7月31日）: JQ90P6O2ZY
