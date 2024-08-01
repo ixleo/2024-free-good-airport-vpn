@@ -13,6 +13,8 @@ $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \spa
 
 $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \color{black} \space (☰) \space \color{red}可以查看文章目录；文章中的大部分内容被折叠了，可以点击三角图标 \space \color{black} \space (▶)  \space \color{red}进行内容的展开。}$$
 
+## 0 目前托管图片的服务器挂掉了，所以图片无法显示，正在解决中
+
 ## 1 免责声明
 
 1. 所有机场均有跑路风险，作为翻墙出来后的自由人，请对自己的选择负责。
