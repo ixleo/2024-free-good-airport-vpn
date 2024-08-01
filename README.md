@@ -156,26 +156,26 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <summary>优惠券和活动</summary>
 
 1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量
-2. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
-3. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
-4. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
-5. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
-6. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
+2. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/10）：IZdSLb5u
+3. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
+4. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
+5. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
+6. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
 7. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
-
-8. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
-9. [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d) —— 九折套餐：
-10. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
-11. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
-12. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**八折**优惠券*：ANNUALLY-20OFF ，半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF 
-13. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
+8. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+9. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
+10. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**八折**优惠券*：ANNUALLY-20OFF ，半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
+11. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
+12. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
+13. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
+14. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
 
-下述优惠券在8-1号的时候验证**可用**
-1. [花云](https://flowercloud.net/aff.php?aff=9199) —— 夏日优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / 企业套餐）：SUN20
-2. [Ytoo](https://y-too.com/aff.php?aff=5041) —— 七月优惠券（7月01日 - 7月31日，全场 8 折，不包括 Air / Team套餐）：202407
-3. [西部数据](https://wd-gold.com/aff.php?aff=7900) —— 85折优惠码（7月01日 - 7月31日）: JQ90P6O2ZY
+下述优惠券在7-31号过期的优惠券在8-2号的时候验证**可用**
+1. [花云](https://flowercloud.net/aff.php?aff=9199) —— 夏日八折优惠券（7.01 - 7.31，不包括 Air / 企业套餐）：SUN20 ；八折优惠券（截止 2024.08.30）QIXI2024
+2. [Ytoo](https://y-too.com/aff.php?aff=5041) —— 七月八折优惠券（7.01 - 7.31，不包括 Air / Team套餐）：202407 ;七夕8.5折优惠券（不包括 Air / 企业套餐）：七夕情人节2024
+3. [西部数据](https://wd-gold.com/aff.php?aff=7900) —— 85折优惠码（7.01 - 7.31）: JQ90P6O2ZY
 
 </details>
 
@@ -184,7 +184,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <details>
 <summary>3.2.6.1 机场概述</summary>
 
-- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)
+- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（目前有10元100G套餐，机场主有想转全专线的念头，所以就放性价比专线这一栏了。）
 - **性价比**直连机场：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[十元一年](https://p4linv63a8lgsyyn.wallli.online/#/register?code=Ws8LDkKZ)
 - **新疆用户的选择**：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[REC](https://my.recmata.net/#/register?code=oOcZX7qQ)
