@@ -157,7 +157,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <details>
 <summary>优惠券和活动</summary>
 
-1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量
+1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— **八折**优惠券：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
 2. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/10）：IZdSLb5u
 3. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
 4. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
