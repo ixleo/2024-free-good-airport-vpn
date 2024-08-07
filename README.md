@@ -4,11 +4,11 @@ $${\Huge \color{red}Welcome \space \space \large \color{lightblue}To \space \spa
 
 ---
 
-关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
+关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场、好用梯子。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
 
 文章中涉及的一些在使用的机场（不包括未使用的其余一线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
 - 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka
-- 主中转：Jay云、To2、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EndNovas
+- 主中转：Jay云、To2、星遇 Next、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EndNovas
 - 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年、宝可梦
 
 推荐代理软件：Clash系、Singbox系。
@@ -70,6 +70,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --- |
 |   Jay 云   |                                                                  <a href="https://postimg.cc/9zMPPqK2" target="_blank"><img src="https://i.postimg.cc/9zMPPqK2/24-6-26-Jay-Cloud.png" alt="24-6-26-Jay-Cloud"/></a>                                                                   |                     主中转机场+香港IEPL专线、~~落地大部分 *misaka* 机器~~；大部分套餐送 **1111 emby**账号；性价比高，解锁不错，除热门节点外还有**香港HKT**（家宽）、台湾（家宽）、澳门（家宽）、越南（家宽）、马来西亚（家宽）、土耳其、尼日利亚等节点；0.01X emby、0.5X、0.8X、1X、10X 倍率节点。**注册送2元余额**。解锁不错，0.01X倍率节点适配大部分的 Emby 服（**就是说即使你的机场不是他家送的emby服，也是可以用0.01X倍率的节点进行观看**）。机场主常在线解决问题。                      | [Jay 云 TG bot注册地址](https://t.me/jaycloudbot?start=9)、 [Jay 云 discord 注册地址](https://discord.gg/eBkvMwaFwC)、 [Jay 云官网注册地址](https://jaybest.one/#/register?code=9) |     |
 |    To2    |     <a href="https://postimg.cc/rD6SLZmy" target="_blank"><img src="https://i.postimg.cc/rD6SLZmy/24-6-26-To2.png" alt="24-6-26-To2"/></a> <a href="https://postimg.cc/68dC6V2r" target="_blank"><img src="https://i.postimg.cc/68dC6V2r/24-6-26-To2.png" alt="24-6-26-To2"/></a>     |                                             大部分中转、两个直连的**小众精品机场**，8K秒开。价格很低，默认 0.5X、1X倍率节点。提供较全的流媒体解锁，除热门节点外还有菲律宾、土耳其、阿根廷、泰国、埃及、巴基斯坦、尼日利亚、印度、越南、缅甸等低价区购物节点（有**台湾家宽节点**）。                                             |                                                                  [To2](https://air.totwo.link/#/register?code=3B4bS6ls)                                                                  |     |
+|    星遇 Next    |                                                                        <a href="https://postimg.cc/2VPGpXD1" target="_blank"><img src="https://i.postimg.cc/2VPGpXD1/24-8-7-Next.png" alt="24-8-7-Next"/></a>                                                                         | 中转机场、之前有**唯云**的机子，但是被打后下掉了。即使如此，性价比也很高；三年付套餐**每月150G/4元**；年付套餐每月150G/5.4元。机器是正价机器，所以稳定性还不错（除了有人打的时候）。老板也很有实力，开了不少分站，这次下场卷TG里的价格。 |                                                                   [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)                                                                   |     |
 |    渔舍     |                                                       <a href="https://postimg.cc/cr3nT7cp" target="_blank"><img src="https://i.postimg.cc/cr3nT7cp/Snipaste-2024-06-26-04-48-14.png" alt="Snipaste-2024-06-26-04-48-14"/></a>                                                        |                                                                        大部分中转、一个直连的小众机场、拥有常见的热门节点、目前香港节点是深港线路。某机场主二开机场，机场**性价比很高**，**用过的都说好**。                                                                        |                                                                  [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)                                                                   |     |
 |    CTC    |                                                                        <a href="https://postimg.cc/Nyc7RCqC" target="_blank"><img src="https://i.postimg.cc/Nyc7RCqC/24-6-26-CTC.png" alt="24-6-26-CTC"/></a>                                                                         |                                           中转机场+IEPL专线、拥有常见热门地区的节点。拥有 **0.1X-1X 倍率**的节点（不定时改倍率，请及时刷新订阅查看节点的倍率情况），**0.7X 倍率**及以上是IEPL专线节点。这是个**精美的小机场**，TG有群组，但是需要购买后才可以进群组。                                           |                                                                [CTC](https://www.jinglongyu.com/#/register?code=uOyqq76d)                                                                |     |
 |    Fac    |                                                              <a href='https://postimg.cc/k6jQ3nVL' target='_blank'><img src='https://i.postimg.cc/k6jQ3nVL/24-6-26-Fac-Mata.png' border='0' alt='24-6-26-Fac-Mata'/></a>                                                              |         全中转机场，目前套餐附带三个 emby：Peach Emby、1111 Emby 和 PiliPili，0.3X-1X倍率的节点，冷门节点也有些，但是不一定能用，所以就当他是拥有常见热门地区的机场就行了。机场节点数量挺多的，但是一挂的话容易挂一片节点，但是不会全部挂掉。有个对小流量用户比较友好的低价年付套餐。总体而言，性价比也不错。机场主是个奇怪的人（喜欢说让人当 TA 的**星怒**以及说让人滚的机场主，但应该不是坏人，只是某方面的**癖好比较独特**？）。         |                                                               [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)                                                               |     |
@@ -158,19 +159,20 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <summary>优惠券和活动</summary>
 
 1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— **八折**优惠券：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
-2. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/10）：IZdSLb5u
-3. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
-4. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
-5. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
-6. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
-7. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
-8. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
-9. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
-10. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**七折券**（截止到 8.17）：ANNUALLY-30OFF ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
-11. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
-12. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
-13. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
-14. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
+2. [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE) —— 年付优惠券 (**65折**): Days_365；半年付优惠券 (**7折**): Days_180；季付优惠券 (**75折**): Days_90；月付优惠券 (**8折**): Days_30
+3. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/10）：IZdSLb5u
+4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
+5. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
+6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
+7. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
+8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
+9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
+11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**七折券**（截止到 8.17）：ANNUALLY-30OFF ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
+12. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
+13. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
+14. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
+15. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
 
@@ -186,7 +188,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 <details>
 <summary>3.2.6.1 机场概述</summary>
 
-- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)
+- **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（目前有10元100G套餐，机场主有想转全专线的念头，所以就放性价比专线这一栏了。）
 - **性价比**直连机场：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[十元一年](https://api-1.1010520.click/#/register?code=Ws8LDkKZ)
 - **新疆用户的选择**：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[REC](https://my.recmata.net/#/register?code=oOcZX7qQ)
@@ -204,7 +206,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 - **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)、[十元一年](https://api-1.1010520.click/#/register?code=Ws8LDkKZ)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)（活动的时候会有不限时，目前有）、[JAY 云](https://t.me/jaycloudbot?start=9)（活动的时候会有不限时，目前没有）、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（没买，活动的时候有不限时，目前有）、[Arisaka](https://www.arisaka.io/#/register?code=1TFEExPW)（年付躺平套餐，可**免费重置流量**，也算是不限时套餐吧）
 - 自称**无审计**的机场：[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)
 - **活动力度很大**，且**看好发展**的机场：[红杏](https://hx666.info/#/register?code=i1fYOnIi)（未来会涨价，目前半年付和年付套餐上了 **唯云专线**，同青瓦）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[JAY 云](https://t.me/jaycloudbot?start=9)
-- 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（1111 Emby，**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（卷毛鼠 Emby）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)（Peach Emby、1111 Emby 和 PiliPili）
+- 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（1111 Emby，**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（卷毛鼠 Emby）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)（Peach Emby、1111 Emby 和 PiliPili）、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)
 - **唯一/唯云**专线机场：[奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650)（唯云第一机场）、[ImmTelecom](https://fuckimm.com/aff.php?aff=1344)、[AmyTelecom](https://www.amytele.net)、[Kuromi](https://www.kuromis.com)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（目前~~未~~上了唯云，目前来看性价比最高，就是月付限速百兆）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)（服务很好，可在群组里实时反馈问题，一般都能得到及时的解决，缺点是有限速。）
 - **[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)**和**[红杏](https://hx666.info/#/register?code=i1fYOnIi)**：两个算是同一个老板开的。目前这两个机场都是上了**唯云专线**：目前两个机场都是半年付及以上的套餐增加了唯云专线的节点——节点后缀是 **BGP** 命名的；套餐内容方面：青瓦是年付**一次性**给一年的流量，而红杏年付是**每月给固定的流量**；**线路**上面：青瓦优于红杏一些，有各种**商宽**、**家宽**（台湾）、**游戏IPLC**、**星链**等节点；带宽方面：两者月付的带宽区别还是挺大的，目前红杏最低配的年付带宽会大些（1000M，青瓦的最低配带宽则是100M）。目前来看，这两家算是**性价比最高**的唯云专线机场。大家可以根据需求选择线路优化更好些的青瓦或者带宽更大的红杏。目前这两家的价格已经在八月初的时候涨了，涨的幅度比较大，旧用户套餐不变，老用户依然有性价比，感兴趣的小伙伴可以及时入手（**Tips**：目前两家都可以**薅羊毛**，通过要求好友购买的方式来延长套餐时间，当然恶意的刷时长肯定不行的啦；红杏需要发工单申请，青瓦的话应该也需要发工单？可咨询下客服）。
 
