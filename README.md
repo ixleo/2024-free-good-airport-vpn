@@ -164,7 +164,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
 5. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
 6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
-7. [JAY 云](https://t.me/jaycloudbot?start=9) —— 月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
+7. [JAY 云](https://t.me/jaycloudbot?start=9) —— **七夕七折**优惠码（截止日期未知）：jay7；月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
 8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
 9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
