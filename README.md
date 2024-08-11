@@ -160,16 +160,16 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— **八折**优惠券：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
 2. [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE) —— 年付优惠券 (**65折**): Days_365；半年付优惠券 (**7折**): Days_180；季付优惠券 (**75折**): Days_90；月付优惠券 (**8折**): Days_30
-3. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/10）：IZdSLb5u
+3. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— 暑假八折优惠券（即可起-2024/08/13）：IZdSLb5u
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
 5. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD) —— **八折**优惠券：cQe9YOpn
-6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折优惠券**（自称是IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
+6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 8月份**八折**优惠券（IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P
 7. [JAY 云](https://t.me/jaycloudbot?start=9) —— **七夕七折**优惠码（截止日期未知）：jay7；月付**9折券**：jay9，季度**8.5折券**：jay85，半年以上**8折券**：jay8；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量）。
 8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
-9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— **九折**优惠码（7月31日-8月3日）：八月快乐 ；最近新出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— ~~**九折**优惠码（7月31日-8月3日）：八月快乐~~ ；最近出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
 11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**七折券**（截止到 8.17）：ANNUALLY-30OFF ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
-12. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— 全场**八折**优惠券：202407T3 ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
+12. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— ~~全场**八折**优惠券：202407T3~~ ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
 13. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
 14. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
 15. [萌物云](https://moeu01.com/register?code=7X77JPiu) —— 七夕**七折**优惠券（8月8日-8月11日）：moeu777
