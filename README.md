@@ -194,10 +194,10 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 
 </details>
 
-#### 3.2.6 机场总结
+#### 3.2.7 机场总结
 
 <details>
-<summary>3.2.6.1 机场概述</summary>
+<summary>3.2.7.1 机场概述</summary>
 
 - **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=4osGhJrD)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）
@@ -226,7 +226,7 @@ $${\large \color{red}友情提示：点击右上角的三条杠图标 \space \co
 ---
 
 <details>
-<summary>3.2.6.2 那么多机场，我该选哪个？</summary>
+<summary>3.2.7.2 那么多机场，我该选哪个？</summary>
 
 本文的目的是写给有选择困难症的人群，但是这里的机场有点多，还是导致了我的选择困难症怎么办？
 
