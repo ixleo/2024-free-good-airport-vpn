@@ -157,7 +157,8 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 <details>
 <summary>待观察机场</summary>
 
-没想好怎么写，先鸽在这了。
+- [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)：目前因为被打以及送的免费套餐太多，导致晚高峰单线程的速度只有10MB左右，所以可以等一月过后再去购买；或者买个套餐等机场主补偿套餐（小道消息是补偿几个月时长的套餐）
+- [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)：新开的唯云机场，目前晚高峰单线程的速度无论是北方还是南方，都可以达到**1000Mbps**左右，感觉很不错，除了机场是新开业这个缺点。如果买月付或者季付套餐，可以考虑这家机场。
 
 </details>
 
