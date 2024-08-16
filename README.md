@@ -170,7 +170,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 <details>
 <summary>优惠券和活动</summary>
 
-1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— **八折**优惠券：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
+1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— **八折**优惠券（月付和 1T 不限时套餐可用）：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
 2. [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE) —— 年付优惠券 (**65折**): Days_365；半年付优惠券 (**7折**): Days_180；季付优惠券 (**75折**): Days_90；月付优惠券 (**8折**): Days_30
 3. [黑暗森林](https://darkforest.cloud/#/register?code=ctj0rXug) —— ~~暑假八折优惠券（即可起-2024/08/13）：IZdSLb5u~~
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666
