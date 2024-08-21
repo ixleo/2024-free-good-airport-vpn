@@ -6,7 +6,7 @@ $${\Huge \color{red}Welcome \space \space \small \color{lightblue}To \space \spa
 
 关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场、好用梯子。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
 
-文章中涉及的一些在使用的机场（不包括未使用的其余一线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
+文章中涉及的一些在使用的机场（不包括未使用的其余专线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
 - 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka、Fancy Network
 - 主中转：Jay云、To2、星遇 Next、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EndNovas
 - 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年、宝可梦
@@ -122,10 +122,10 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 
 </details>
 
-#### 3.2.4 其他未使用过的一线机场
+#### 3.2.4 其他未使用过的专线机场
 
 <details>
-<summary>其他未使用过的一线机场</summary>
+<summary>其他未使用过的专线机场</summary>
 
 以下大部分机场在TG上是有一些知名度的（这里面的机场本人大部分未使用过，但为了弥补个人推荐的机场的高端机场不足，也为了方便大家对比高端机场，所以特此放在这里）。
 在这里先把这些机场做个概述：
@@ -136,7 +136,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 - [花云](https://flowercloud.net/aff.php?aff=9199)、[Ytoo](https://y-too.com/aff.php?aff=5041)：年付很有性价比，有低倍率0.2X节点，速度和正常节点差不多，不过听说年付和低价月付容易进内鬼组。（之前花云的香港节点晚高峰很拉）
 - [西部数据](https://wd-gold.com/aff.php?aff=7900)：没被打的时候听说是很有性价比的一家机场（最近没被打的时候我在使用，发现体验并不好。代理软件上的节点能 PING 的通，但是网页却经常打不开！）。
 
-| 其他一线机场 |                                                                                                                                                                                                                                                                                           套餐情况                                                                                                                                                                                                                                                                                          |                                                 官网地址                                                |
+| 其他专线机场 |                                                                                                                                                                                                                                                                                           套餐情况                                                                                                                                                                                                                                                                                          |                                                 官网地址                                                |
 |:------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 |     奶昔     |                                                                                                                                                                                                                      <a href="https://postimg.cc/z3qWNPdC" target="_blank"><img src="https://i.postimg.cc/z3qWNPdC/24-7-21-Nexitally.png" alt="24-7-21-Nexitally"/></a>                                                                                                                                                                                                                     | [奶昔](https://naiixi.com/signupbyemail.aspx?MemberCode=2e53c69e8a9a4decb22039469c1daf4a20240511155650) |
 |  AmyTelecom  |                                                                                                                                                                                                              <a href='https://postimg.cc/VrmSYdFf' target='_blank'><img src='https://i.postimg.cc/VrmSYdFf/24-7-21-Amy-Telecom.png' border='0' alt='24-7-21-Amy-Telecom'/></a>                                                                                                                                                                                                              |                            [AmyTelecom](https://www.amytele.net)                           |
@@ -149,7 +149,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 |   西部数据   |                                                                                                                                            <a href="https://postimg.cc/w7vmyRY3" target="_blank"><img src="https://i.postimg.cc/w7vmyRY3/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a> <a href="https://postimg.cc/G9zDmJNZ" target="_blank"><img src="https://i.postimg.cc/G9zDmJNZ/24-7-21-West-Data.png" alt="24-7-21-West-Data"/></a>                                                                                                                                            |                             [西部数据](https://wd-gold.com/aff.php?aff=7900)                            |
 |   青瓦（Bluetile.biz）   |                                                                                                                                            <a href='https://postimg.cc/JymcZpwF' target='_blank'><img src='https://i.postimg.cc/JymcZpwF/24-8-8-Bluetile-biz.png' border='0' alt='24-8-8-Bluetile-biz'/></a>                                                                                                                                            |                             [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)                            |
 
-某位网友分享的**一线机场对比图**：<a href='https://postimg.cc/Q9dfFx8D' target='_blank'><img src='https://i.postimg.cc/Q9dfFx8D/image.jpg' border='0' alt='image'/></a>
+某位网友分享的**专线机场价格对比图**：<a href='https://postimg.cc/Q9dfFx8D' target='_blank'><img src='https://i.postimg.cc/Q9dfFx8D/image.jpg' border='0' alt='image'/></a>
 
 </details>
 
