@@ -184,7 +184,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
 9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— ~~**八折**优惠码（截止到8月15日）：八月快乐~~ ；最近出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**优惠券：duangvps
-11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— ~~年付**七折券**（截止到 8.17）：ANNUALLY-30OFF~~ ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
+11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— 年付**七折券**（截止到 8.26）：ANNUALLY-30OFF ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
 12. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— ~~全场**八折**优惠券：202407T3~~ ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
 13. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
 14. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
