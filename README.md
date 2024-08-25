@@ -189,8 +189,9 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 13. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
 14. [EndNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
 15. [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L) —— **七折**优惠券：WELCOME
-16. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~七夕**七折**优惠券（8月8日-8月11日）：moeu777~~
-17. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
+16. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 七夕月付以上套餐的**八五折**优惠券：qx85 ；七夕年付以上套餐的**八折**优惠券：qx8
+17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~七夕**七折**优惠券（8月8日-8月11日）：moeu777~~
+18. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
 
