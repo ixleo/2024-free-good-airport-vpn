@@ -9,7 +9,7 @@ $${\Huge \color{red}Welcome \space \space \small \color{lightblue}To \space \spa
 文章中涉及的一些在使用的机场（不包括未使用的其余专线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
 - 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka、Fancy Network
 - 主中转：Jay云、To2、星遇 Next、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EdNovas
-- 主直连：最长跑道、CTC2、Best VPN、狗狗加速、Rec、十元一年
+- 主直连：最长跑道、最强机场、CTC2、Best VPN、狗狗加速、Rec、十元一年
 
 推荐代理软件：Clash系、Singbox系。
 
@@ -114,6 +114,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 | 直连机场 |                                                                                     价格流量图                                                                                     |                                                                                                                                                    评价                                                                                                                                                   |                                   注册官网                                  |
 |:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
 | 最长跑道 |      <a href="https://postimg.cc/dhKTf7HL" target="_blank"><img src="https://i.postimg.cc/dhKTf7HL/Snipaste-2024-06-26-04-49-49.png" alt="Snipaste-2024-06-26-04-49-49"/></a>      |                                                                                                 **优化直连线路**机场，有试用，是 Vless Reality + Hy2 协议，节点数量比较少，节点是 0.5X-1.5X 倍率。目前是**新疆那边体验最好**的一家直连机场之一（目前未在TG上运营）。                                                                                                 |           [最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)           |
+| 最强机场 |      <a href='https://postimg.cc/4KrLBtLg' target='_blank'><img src='https://i.postimg.cc/4KrLBtLg/24-9-2.png' border='0' alt='24-9-2'/></a>      |                                                                                                 **优化直连线路**机场，目前是 Vless+Trojan 协议，**性价比极高**，有十元一年的套餐！机场主目前在找最合适大家上网的协议中。香港节点拥有**专线级的延迟**，部分节点的速度能达到2000Mbps，节点数量虽然不多，但也是做了负载均衡了的。节点是 1X 倍率（但我在测速的时候发现了流量统计BUG，也就是说你用了几十G流量后，实际统计的只有2G不到！**早用早薅羊毛**）。                                                                                                 |           [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)           |
 |   CTC2   | <a href='https://postimg.cc/t7mD9Mqq' target='_blank'><img src='https://i.postimg.cc/t7mD9Mqq/24-7-16-CTC-02.png' border='0' alt='24-7-16-CTC-02'/></a> |                                                                                也是**优化直连线路**机场，是 Vless Reality 协议，节点数量也不多，节点是 0.03X-10X 倍率。目前也是新疆那边体验最好的一家直连机场之一。最近新出年付15元保号套餐。但是这家只能半年付或者年付（月付套餐很贵；如果不看半年付的付款方式，这家直连机场的确很棒；不过在优化线路的直连机场中，这家的半年付套餐也是挺有性价比的）。                                                                                |             [CTC2](https://www.ctc.run/#/register?code=mHZErEhf)            |
 | Best VPN |                  <a href="https://postimg.cc/9DTYR5Sq" target="_blank"><img src="https://i.postimg.cc/9DTYR5Sq/24-6-26-Best-VPN.png" alt="24-6-26-Best-VPN"/></a>                  | 也是**优化直连线路**机场，是 Hy1 + Hy2 协议（HY1限速100兆，HY2不限速），节点数量比较多，节点是 1X-2X 倍率。**新加坡的 TG PING 很低**，大白话来讲：用他家的新加坡节点刷TG很爽（但晚高峰一般）。除热门地区的节点外，还有**比较多的冷门节点**（越南、瑞典、俄罗斯、加拿大、荷兰、法国、德国西班牙、英国、墨西哥、澳洲、瑞士、印度、阿联酋、智利、巴西、阿根廷、南非、意大利、以色列等节点）。我这边东部使用还可以，但是我那新疆的朋友说使用体验一般。 |        [Best VPN（大）](https://go.bv2.xyz/#/register?code=G9hwKOnV)        |
 | 狗狗加速 |                           <a href="https://postimg.cc/NL5T2v2f" target="_blank"><img src="https://i.postimg.cc/NL5T2v2f/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                                          和 Best VPN 同样的情况。Best VPN 是不限时套餐，狗狗加速全是限时套餐。                                                                                                                                         |           [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)          |
@@ -201,7 +202,8 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 15. [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L) —— **七折**优惠券：WELCOME
 16. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 七夕月付以上套餐的**八五折**优惠券：qx85 ；七夕年付以上套餐的**八折**优惠券：qx8
 17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~七夕**七折**优惠券（8月8日-8月11日）：moeu777~~
-18. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
+18. [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3) —— TOP3 套餐年付**八折优惠券**：qtMBMIrr ；TOP2 套餐年付**七折优惠券**：JYEF6M27 ；TOP1 套餐年付**六折优惠券**：pJoouXeB
+19. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
 
@@ -219,8 +221,8 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 
 - **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）
-- **性价比**直连机场：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)（~~最近**关闭注册**中~~，目前可以注册机场）、[十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ)（不考虑稳定性，只考虑性价比的话，这家的确高，但是谁只会考虑性价比呢？）
-- **新疆用户的选择**（**港澳地区访问 ChatGPT 的选择**）：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[REC](https://my.recmata.net/#/register?code=oOcZX7qQ)
+- **性价比**直连机场：[最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)（~~最近**关闭注册**中~~，目前可以注册机场）、[十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ)（不考虑稳定性，只考虑性价比的话，这家的确高，但是谁只会考虑性价比呢？）
+- **新疆用户的选择**（**港澳地区访问 ChatGPT 的选择**）：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[REC](https://my.recmata.net/#/register?code=oOcZX7qQ)
 - **精美小机场**：
   - [JAY 云](https://t.me/jaycloudbot?start=9)
   - [To2](https://air.totwo.link/#/register?code=3B4bS6ls)
@@ -290,6 +292,7 @@ Emmmmm......我也不能给你做选择，直接告诉你该买哪个。你可�
 - **中转机场的价格可能会提升**：最近移动的跨省 QOS 限速政策，广东那边移动入口机器被限速，这会导致很多国内中转机场带宽不足。如果持续下去，国内移动中转机将会大幅度涨价或者更换电信/联通入口中转机，都会导致机场涨价（即使是专线中转机场，也需要将入口更换为电信入口机子）。参考文章，[中国移动“省间结算”政策，强制丢包](https://www.nodeseek.com/post-133588-1)
 - ~~7月份大会期间，一些 HY 协议的机场被墙~~（开会时间过去就好了）：直连不管什么协议流量大了都很容易被墙。[参考TG上的一篇文章](https://t.me/paoluztz/4628)
 - 某些特定地区机场难用的情况：新疆（[新疆反向墙现象](https://shenlongbbs.com/thread-24364.htm)，建议使用优化直连的机场）、江苏（[反诈现象](https://www.v2ex.com/t/849663)，订阅不能更新，节点 ERROR）、福建（白名单现象，[无法使用未备案域名访问白名单以外的IP](https://blog.tsinbei.com/archives/1293/)）等地，机场时不时出现难用的情况。
+- **“唯云四杰”** 的唯一入口机器下掉了，现在被戏称为 **“联通四杰”**：最近很多原来是唯云的机场都下掉唯一的机器了，包括但不限于“唯云四杰”、红杏、青瓦等机场（上面的信息还没更新，等有空更新）。目前听说薯条的 A-F 组还有唯云的入口机器，但我认为这个机器下掉只是时间问题。
 
 </details>
 
