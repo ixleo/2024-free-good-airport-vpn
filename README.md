@@ -1,10 +1,10 @@
-# 2024年最新免费性价比机场推荐(2024-09)
+# 2024年最新免费性价比及高端机场推荐(2024-09)
 
 $${\Huge \color{red}Welcome \space \space \small \color{lightblue}To \space \space \large \color{orange}Here}$$
 
 ---
 
-关联自由上网、科学上网、魔法上网、网络加速器。免费、公益、性价比、自用机场、好用梯子。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
+关联自由上网、科学上网、魔法上网、网络加速器。免费机场、公益机场、性价比机场、高端机场、自用机场、好用梯子。 协议有 SS、V2ray、Vless Reality、Trojan、Hysteria、Vmess。 
 
 文章中涉及的一些在使用的机场（不包括未使用的其余专线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
 - 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka、Fancy Network
