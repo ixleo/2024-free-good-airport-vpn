@@ -226,7 +226,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 #### 3.2.7 机场总结
 
 <details>
-<summary>3.2.7.1 机场概述</summary>
+<summary>3.2.7.1 机场概述（这里只总结用过的机场）</summary>
 
 - **性价比**中转机场：[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[JAY 云](https://t.me/jaycloudbot?start=9)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）
