@@ -211,7 +211,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 9月**九折**优惠：uMLWQLii ;~~**七五折**优惠券：k4uBzm5q ；8月份**八折**优惠券（IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P~~
 7. [JAY 云](https://t.me/jaycloudbot?start=9) —— 中秋**六折**优惠码（截止日期未知，特惠套餐不能使用该优惠）：jay6 ；特惠套餐优惠券（月付**9.5折券**：jay95，季度**9折券**：jay9，半年以上**8折券**：jay8；）；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量；目前也有 **9.9元 200G特惠套餐**，搭配 0.5倍率节点使用，很香。）;
 8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~开业八折优惠码（7月24日 - 7月31日）：724520~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
-9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 全套餐**八折**优惠码（截止日期未知）：九月快乐 ；最近出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
+9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— ~~全套餐**八折**优惠码（截止日期未知）：九月快乐~~ ；最近出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**首次使用优惠券：duangvps
 11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— ~~年付**七折券**（截止到 8.26）：ANNUALLY-30OFF~~ ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
 12. [Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV) —— ~~全场**八折**优惠券：202407T3~~ ，可以邀请人注册送25G永久流量，不过恶意刷流量的话可能会封号
