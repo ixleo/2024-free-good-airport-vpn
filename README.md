@@ -9,7 +9,7 @@ $${\Huge \color{red}Welcome \space \space \small \color{lightblue}To \space \spa
 文章中涉及的一些在使用的机场（不包括未使用的其余专线机场。有些中转为主的机场这里称为主中转机场，其余命名规格依此类推）：
 - 主专线：渔云、红杏、3A 加速、LinkeLess、飞天猪、Arisaka、Fancy Network
 - 主中转：Jay云、To2、星遇 Next、渔舍、次元云、CTC、FAC、黑暗森林、tutucloud、COO、EdNovas
-- 主直连：最长跑道、最强机场、CTC2、Best VPN、狗狗加速、Rec、十元一年
+- 主直连：最长跑道、最强机场、CTC2、Best VPN、狗狗加速、Rec
 
 推荐代理软件：Clash系、Singbox系。
 
@@ -44,7 +44,6 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 |        萌物云       |                                                                                            ~~每月50G免费流量套餐，节点数量 6 仅包含美日新三国节点~~（白嫖套餐现在已经下掉了，现在有个年付30+，类似白嫖套餐的套餐，速度方面还不错，多线程测速能跑到 2000Mbps+。）。有 Emby 服务，不过只有购买黄金和钻石套餐的才会附带。（新机场，所以目前来讲，这个白嫖节点的速度相对以下机场会好些。TG 群组里可以签到获得不少流量，这点很棒！关键是不限时套餐也可以签到领取流量！！）                                                                                           |         [萌物云](https://dash.moeu01.com/register?code=7X77JPiu)         |
 |        忽悠云       |                                                                                            记得那年夏天，某个机场几天内就发完了 **10000+** 的白嫖码，没错，那就是忽悠云。虽然 **现在没有白嫖码** 了，但是以示尊重，就把他放在这里了（有试用套餐）。                                                                                           |         [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L)         |
 |        IKUUU        |                                                                              每月50G流量，可白嫖三个月（限速50M）。充值一块钱后可永久白嫖。                                                                             |              [IKUUU](https://ikuuu.pw/auth/register?code=iQns)              |
-|       十元一年      |                                                                                     加群白嫖20G流量，不过该流量的套餐会不定时删号。                                                                                     | [十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ) |
 |        迷雾通       |                                                                                                  免费账号限速125Mbps。                                                                                                  |                        [迷雾通](https://geph.io/zhs)                        |
 |     ~~Oblivion（目前无法使用）~~    | 是伊朗开发者做的非官方Warp客户端，理论上来说无限流量。刚开始很好用，但是后来不是很好用了。现在我这边是无法使用的状态，可能未来更新软件后可以使用。[参考文章](https://github.com/bepass-org/oblivion-desktop/issues/367) |          [Oblivion](https://github.com/bepass-org/oblivion-desktop)         |
 
@@ -119,7 +118,6 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 | Best VPN |                  <a href="https://postimg.cc/9DTYR5Sq" target="_blank"><img src="https://i.postimg.cc/9DTYR5Sq/24-6-26-Best-VPN.png" alt="24-6-26-Best-VPN"/></a>                  | 也是**优化直连线路**的机场，是 Hy1 + Hy2 协议（HY1限速100兆，HY2不限速），节点数量比较多，节点是 1X-2X 倍率。**新加坡的 TG PING 很低**，大白话来讲：用他家的新加坡节点刷TG很爽（但晚高峰一般）。除热门地区的节点外，还有**比较多的冷门节点**（越南、瑞典、俄罗斯、加拿大、荷兰、法国、德国西班牙、英国、墨西哥、澳洲、瑞士、印度、阿联酋、智利、巴西、阿根廷、南非、意大利、以色列等节点）。我这边东部使用还可以，但是我那新疆的朋友说使用体验一般。 |        [Best VPN（大）](https://go.bv2.xyz/#/register?code=G9hwKOnV)        |
 | 狗狗加速 |                           <a href="https://postimg.cc/NL5T2v2f" target="_blank"><img src="https://i.postimg.cc/NL5T2v2f/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                                          和 Best VPN 同样的情况。Best VPN 是不限时套餐，狗狗加速全是限时套餐。                                                                                                                                         |           [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)          |
 |    Rec   |                  <a href="https://postimg.cc/56QwTWfk" target="_blank"><img src="https://i.postimg.cc/56QwTWfk/24-6-26-Rec-Mata.png" alt="24-6-26-Rec-Mata"/></a>                  |                                                                                                       和 CTC2 很像的一家机场（**比 CTC2 节点数量多**不少！），但是套餐内的 25Mbpb和150Mbps 带宽限速就比较迷（150Mbps 和 25Mbps 限速的套餐价格一样，就是 150Mbps 的流量少些，不过用 0.1X 倍率的节点还是够用的！）。而且 150Mbps 对于大部分人来说是够了的，看油管 4K 绰绰有余（自从我看到某家机场限速 100Mbps，年付 300 的时候，我发现这家机场也是挺有良心的）。节点是 0.1X-10X 倍率。                                                                                                       |            [REC](https://my.recmata.net/#/register?code=oOcZX7qQ)           |
-| 十元一年 |                           <a href="https://postimg.cc/VSf0Yxcw" target="_blank"><img src="https://i.postimg.cc/VSf0Yxcw/24-6-26.png" alt="24-6-26"/></a>                           |                                                                                                                  刚开始是一家普通线路的 Hy2 协议的直连机场，后来加了一半左右的中转节点；最近也上了专线（10PB套餐有），不过这个价位的专线，质量肯定是不如上述专门的专线机场的甚至不如中转机场（这价格**还要啥自行车**）。                                                                                                                  | [十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ) |
 
 
 </details>
@@ -197,6 +195,19 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 
 </details>
 
+#### 3.2.6 文章中下掉的机场
+
+<details>
+<summary>文章中写过，但后来下掉的机场</summary>
+
+这里用来存放我之前文章中上过，但后来下掉的机场。大概率会讲机场的不好的一面，自行思辨。
+
+- 十元一年机场：之前在文章中推荐过他家的机场，原因有以下几点：一是这个价位的不限时套餐机场（比如：1000000G/70元）看着就让人很有购买欲，所以我也是自行购买了套餐,虽然这个机场的体验很糟糕，但当时我努力得告诉自己，这价位还要啥自行车。二是他家的佣金很高，是 50%，后面可以根据推广人数将佣金提高到最高 80%，实话说，我推荐这个机场是带有不少私欲的成分在的。后来我在这个机场群组里待了一段时间，也开始思考了一些问题，最终决定下掉这个机场。下掉这机场的主要原因是因为机场主的某些不诚实行为；次要原因是：一直不好用。
+  买机场是来享受网络服务的，如果买的机场一直很难使用，即使性价比再高，那也是无济于事。对于机场主的不诚实行为：比如 SpeedTest 的测速图截图只截取速度的一部分，没有截取服务器的那部分，这样就不知道是不是这样机场测的。实际上那个测速图大概率不是他现在的这个机场测的；二是他把机场在某个测速群组里的测速图进行P图的行为，导致原来速度不快的测速图，P图后看起来很快。这个机场的不诚实行为让我开始思考自己推广机场的初衷是什么 —— 钱？爱好？还是说想推荐给大家性价比高，符合价位的机场？可能上面所说的初衷，当时都占有一部分，但现在回想起来的时候，发现自己有些渐行渐远了。所以我决定此时此刻下掉这个机场（9-12 记）。
+
+
+</details>
+
 #### 3.2.6 优惠券和活动
 
 一些优惠券和活动会写在这里，但这并不代表其他机场里面没有优惠券和活动（只是我没看到，或者优惠券在官网首页——很好找；有的活动没在上面的官网套餐里显示，那纯属我太懒没更新图片，还有可能是活动已经过期了；还有就是不用盯着有优惠券的机场买，也有些机场性价比很高了，所以常年没有优惠券）。
@@ -241,7 +252,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 
 - **性价比**中转机场：[JAY 云](https://t.me/jaycloudbot?start=9)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[星遇 Next](https://px.xinyo.me/register?code=z3GdLANE)、[渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)
 - **性价比**专线机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi)、[红杏](https://hx666.info/#/register?code=i1fYOnIi)（可薅羊毛（目前本人未实践过，但客服告知是这样的），具体看上述机场的描述）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)、[飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH)（年付小包）
-- **性价比**直连机场：[最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)（~~最近**关闭注册**中~~，目前可以注册机场）、[十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ)（不考虑稳定性，只考虑性价比的话，这家的确高，但是谁只会考虑性价比呢？）
+- **性价比**直连机场：[最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)（~~最近**关闭注册**中~~，目前可以注册机场）
 - **新疆用户的选择**（**港澳地区访问 ChatGPT 的选择**）：[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)、[CTC2](https://www.ctc.run/#/register?code=mHZErEhf)、[REC](https://my.recmata.net/#/register?code=oOcZX7qQ)
 - **精美小机场**：
   - [JAY 云](https://t.me/jaycloudbot?start=9)
@@ -255,7 +266,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
   - [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L)
 - 地区和节点数量多的机场（**环球旅游**，有比较多的家宽）：[Tag](https://tagss04.pro/#/auth/6VKNYeoh)、[SSTAP](https://sstap.io/#/register?code=OyI8fGhZ)、[EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
 - 有**回国线路**的机场（国外访问国内）：[EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm)
-- **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)、[十元一年](https://syyn.1.passwallwall.life/#/register?code=Ws8LDkKZ)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)（活动的时候会有不限时，目前有）、[JAY 云](https://t.me/jaycloudbot?start=9)（活动的时候会有不限时，目前没有；虽然没有，但是可以私聊机场主购买，大概率可以的。）、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（没买，活动的时候有不限时，目前有）、[Arisaka](https://arisaka.io/#/register?code=1TFEExPW)（年付躺平套餐，可**免费重置流量**，也算是不限时套餐吧）
+- **不限时套餐**机场：[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[To2](https://air.totwo.link/#/register?code=3B4bS6ls)、[黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug)、[最长跑道](https://zcpdao.com/#/register?code=4GTFiwW2)、[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[tutucloud](https://qiang.tutucloud.shop/#/register?code=N8eTmQce)、[COO](https://web.coo.wiki/#/register?code=Hl02XboO)、[次元云](https://ciyy.cc/#/register?code=9B4x7pu0)（活动的时候会有不限时，目前有）、[JAY 云](https://t.me/jaycloudbot?start=9)（活动的时候会有不限时，目前没有；虽然没有，但是可以私聊机场主购买，大概率可以的。）、[LiWell](https://liwell.top/#/register?code=R30SJ14u)（没买，活动的时候有不限时，目前有）、[Arisaka](https://arisaka.io/#/register?code=1TFEExPW)（年付躺平套餐，可**免费重置流量**，也算是不限时套餐吧）
 - 自称**无审计**的机场：[Best VPN](https://go.bv2.xyz/#/register?code=G9hwKOnV)、[狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q)
 - **活动力度很大**，且**看好发展**的机场：[红杏](https://hx666.info/#/register?code=i1fYOnIi)（已涨价，后来又降价了，套餐图我没改，~~目前半年付和年付套餐上了 **唯云专线**，同青瓦，~~**但是最近一段时间应该下掉了**）、[青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu)、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)、[JAY 云](https://t.me/jaycloudbot?start=9)
 - 送 **Emby** 的机场：[JAY 云](https://t.me/jaycloudbot?start=9)（1111 Emby，**只要你有其他 emby 服的账号，大部分可以在这里用 0.01X 的节点**，如果不能看，找机场主匹配；但是听说本月结束后中止 Emby 服务）、[渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc)（卷毛鼠 Emby）、[FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD)（Peach Emby、1111 Emby 和 PiliPili）、[Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km)（Jellyfin 服，不保证长期可用性）
