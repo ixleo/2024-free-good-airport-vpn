@@ -188,6 +188,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
     - 现已涨价、机器加了带宽、最近依然偶尔被打，但问题不大、性价比依旧、最近在优化新机器的延迟。
     - 9-6 日下午节点断连1小时，机场主买企业花云作为备选方案。
     - 9-11 号该机场出现不同地区和运营商的用户无法使用节点的情况，通过重启本地光猫的方法可以解决该问题，但可能该问题会继续出现。
+    - 9-13 号晚上，运营商屏蔽问题和跳延迟的情况通过更换 IP 解决；
 - [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3)：新机场，性价比很高，目前我在测速群里的测速图很好看，所以我怀疑是有劫持的情况，但是其他测速后端测的时候节点不能测全，而且我本地的带宽也不够测试，所以目前无法证实他是劫持测速后端的。还有就是大部分发展快、性价比高的机场都是容易出点小毛病的，这个机场也不例外——节点不可用情况出现的频率略高。所以大家要注意性价比和稳定性之间的抉择。
   - 后续跟进：
     - 9-7 大部分套餐保持原价，套餐内的流量**翻倍**。—— 是不是有种给的越多，越怕他跑路的感觉。哈哈
@@ -223,7 +224,8 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~七夕**七折**优惠券（8月8日-8月11日）：moeu777~~
 18. [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi) —— 九折优惠券：duang
 19. [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3) —— TOP3 套餐年付**八折优惠券**（截止日期：中秋节前几天）：qtMBMIrr ；TOP2 套餐年付**七折优惠券**：JYEF6M27 ；TOP1 套餐年付**六折优惠券**：pJoouXeB
-20. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
+20. [渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc) —— 中秋活动，**八八折优惠券**（截止于9-17 18:00，不适用于年付）：中秋团圆
+21. ~~[REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— **Standard 套餐八折**优惠券（截止24-7-24号）：SAVE-FACMATA-NET~~
 
 ---
 
