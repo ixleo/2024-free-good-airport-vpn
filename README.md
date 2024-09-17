@@ -227,7 +227,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 14. [EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
 15. [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L) —— **七折**优惠券：WELCOME
 16. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 中秋活动之年付续费活动**八折**优惠券（已购年付套餐后再购买年付可使用，截止日期未知）：zq8 ；中秋活动之月付以上套餐的**八五折**优惠券：zq85
-17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~七夕**七折**优惠券（8月8日-8月11日）：moeu777~~
+17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— 中秋**七五折**优惠券（截止 9月18日，额外福利：年付附赠三个月时长，多年付的套餐以此类推。）：mwyzqkl
 18. [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi) —— 常驻**九折**优惠券：duang ;中秋**八八折**优惠券（截止日期未知）：MAFancy
 19. [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3) —— TOP3 套餐年付**八折优惠券**（截止日期：中秋节前几天）：qtMBMIrr ；TOP2 套餐年付**七折优惠券**：JYEF6M27 ；TOP1 套餐年付**六折优惠券**：pJoouXeB
 20. [渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc) —— 中秋活动，**八八折优惠券**（截止于9-17 18:00，不适用于年付）：中秋团圆
