@@ -216,14 +216,14 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 <details>
 <summary>优惠券和活动</summary>
 
-1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— 中秋活动**八折**优惠券（截止 9-17 号，除不限时套餐均可用）：中秋团团圆圆 ；**八折**优惠券（月付和 1T 不限时套餐可用）：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
+1. [次元云](https://ciyy.cc/#/register?code=9B4x7pu0) —— ~~中秋活动**八折**优惠券（截止 9-17 号，除不限时套餐均可用）：中秋团团圆圆~~ ；**八折**优惠券（月付和 1T 不限时套餐可用）：2024-8 ；~~1T不限时套餐20元优惠券：立减20  ，夏季季付套餐：**28元享受三月**每月200G流量~~
 2. [星遇 Next](https://px.xinyo.me/register?code=z3GdLANE) —— 年付优惠券 (优惠截止日期未知！！！ **65折**): Days_365；半年付优惠券 (**7折**): Days_180；季付优惠券 (**75折**): Days_90；月付优惠券 (**8折**): Days_30
-3. [黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug) —— 新人首次**八八折**优惠券：darkforest2024 ；中秋八五折优惠券（截止 2024/09/20）：千里共婵娟
+3. [黑暗森林](https://a1.darkforest.cloud/#/register?code=ctj0rXug) —— 新人首次**八八折**优惠券：darkforest2024 ；~~中秋八五折优惠券（截止 2024/09/20）：千里共婵娟~~
 4. [红杏](https://hx666.info/#/register?code=i1fYOnIi) —— **八折**优惠券：hongxing666 ；**八折**优惠券：666888
 5. [青瓦](https://blue.xn--xhq8sm16c5ls.com/#/register?code=a1T6LnAu) —— **八折**优惠券：cQe9YOpn
 6. [3A加速](https://cc01.aaaspeed.pro/#/register?code=zQm59rB0) —— 9月**九折**优惠：uMLWQLii ;~~**七五折**优惠券：k4uBzm5q ；8月份**八折**优惠券（IPLC机场，拥有套餐一段时间了，机场 **5G** 的口子，挺喜欢用他的香港节点的，且新开业，总体体验还是不错的；算了下三年套餐使用上八折优惠券，100G月套餐**每月仅需9.6元**，所以这个三年付是个比较大的诱惑和赌博，请**慎重选择**！）：8ZG9fn4P~~
 7. [JAY 云](https://t.me/jaycloudbot?start=9) —— 中秋**六折**优惠码（截止日期未知，特惠套餐不能使用该优惠）：jay6 ；特惠套餐优惠券（月付**9.5折券**：jay95，季度**9折券**：jay9，半年以上**8折券**：jay8；）；夏季活动：**5元10G 畅享 emby**套餐（如果只用 0.01X 倍率的emby，相当于 1T 流量；目前也有 **9.9元 200G特惠套餐**，搭配 0.5倍率节点使用，很香。）;
-8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— 中秋八五折优惠码（截止 9-18 号）：Moon Festival ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
+8. [Linkeless](https://linkeless.com/#/register?code=sr1Tg8Km) —— ~~中秋八五折优惠码（截止 9-18 号）：Moon Festival~~ ，长期9折码：10%OFF  （现在这机场算是正式开业了，价格是属于偏贵的那类专线机场，但是机场入口多，机场主修节点勤快，目前机场属于稳扎稳打的那种。）
 9. [CTC2](https://www.ctc.run/#/register?code=mHZErEhf) —— 中秋活动全套餐**八折**优惠码（截止日期未知）：中秋快乐 ；最近出了一个**防失联套餐**，年付15，每月 50G，但是限速30Mbps。如果晚高峰能保持这个速度，也是还行的，这个速度能看油管1440P。对于有些只刷网页和1080P油管的用户来说，这没准是个好选择。
 10. [渔舍](https://dash.yushe.org/#/register?code=suRIJAHQ) —— **八八折**首次使用优惠券：duangvps
 11. [FAC](https://entrance.facmata.net/#/register?code=MAQFTRDD) —— ~~年付**七折券**（截止到 8.26）：ANNUALLY-30OFF~~ ；常驻年付**八折**优惠券*：ANNUALLY-20OFF ，常驻半年付和季付**九折**优惠券： QUARTERLY/SEMIANNUALLY-10OFF
@@ -232,10 +232,10 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 14. [EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 九五折优惠券：EdNovas云
 15. [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L) —— **七折**优惠券：WELCOME
 16. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 中秋活动之年付续费活动**八折**优惠券（已购年付套餐后再购买年付可使用，截止日期未知）：zq8 ；中秋活动之月付以上套餐的**八五折**优惠券：zq85
-17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— 中秋**七五折**优惠券（截止 9月18日，额外福利：年付附赠三个月时长，多年付的套餐以此类推。）：mwyzqkl
-18. [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi) —— 常驻**九折**优惠券：duang ;中秋**八八折**优惠券（截止日期未知）：MAFancy
+17. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— ~~中秋**七五折**优惠券（截止 9月18日，额外福利：年付附赠三个月时长，多年付的套餐以此类推。）：mwyzqkl~~
+18. [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi) —— 常驻**九折**优惠券：duang ;~~中秋**八八折**优惠券（截止日期未知）：MAFancy~~
 19. [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3) —— TOP3 套餐年付**八折优惠券**（截止日期：中秋节前几天）：qtMBMIrr ；TOP2 套餐年付**七折优惠券**：JYEF6M27 ；TOP1 套餐年付**六折优惠券**：pJoouXeB
-20. [渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc) —— 中秋活动，**八八折优惠券**（截止于9-17 18:00，不适用于年付）：中秋团圆
+20. [渔云](https://cloudfisher.net/web/#/login?code=Eu3xPxoc) —— ~~中秋活动，**八八折优惠券**（截止于9-17 18:00，不适用于年付）：中秋团圆~~
 21. [REC](https://my.recmata.net/#/register?code=oOcZX7qQ) —— 年付套餐**八五折**优惠券（截止日期未知）：KNEE-DOWN-FOR-MISS-MAKIMA
 
 ---
