@@ -238,7 +238,7 @@ $${\large \color{red}友情提示：文章中的大部分内容被折叠了，�
 14. [狗狗加速](https://www.dg7.top/#/register?code=bST0uL9q) —— 余额充值：满100送10
 15. [EdNovas](https://ednovas.org/#/register?code=NEaJe9Vm) —— 国庆全场**八折**优惠券（截止于 10-8）：101;九五折优惠券：EdNovas云
 16. [忽悠云](https://svc.me.huy.ooo/zh/#/auth/signup;referral=uBtcqt5L) —— **七折**优惠券：WELCOME
-17. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 国庆月付**八五**优惠券（截止于 10-15）： gq85；国庆年付**八折**优惠券（截止于 10-15）：gq80；
+17. [飞天猪](https://ftzcc01.fliggycloud.pro/#/register?code=DNp3l1UH) —— 国庆月付**八五折**优惠券（截止于 10-15）： gq85；国庆年付**八折**优惠券（截止于 10-15）：gq80；
 18. [萌物云](https://dash.moeu01.com/register?code=7X77JPiu) —— 国庆月付**七折**优惠券（截止于 10-8）：mwy1001；国庆年付**六五折**优惠券（截止于 10-8）：mwy1001year ；~~中秋**七五折**优惠券（截止 9月18日，额外福利：年付附赠三个月时长，多年付的套餐以此类推。）：mwyzqkl~~
 19. [Fancy Network](https://dash.justfancy.net/register?code=oYZ5P9Oi) —— 常驻**九折**优惠券：duang ;~~中秋**八八折**优惠券（截止日期未知）：MAFancy~~
 20. [最强机场](https://xn--mesz9ptugxg.com/#/register?code=d545Vlh3) —— 无
